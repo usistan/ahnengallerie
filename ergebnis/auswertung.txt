@@ -1,0 +1,30 @@
+Vorfahren gesamt (ohne Startperson): 665
+Nicht in Dornbirn geboren: 26 (Geburtsort unbekannt: 597)
+
+Nach Kategorie:
+  unbekannt                            597
+  Dornbirn                              42
+  Vorarlberg (ohne Dornbirn)            20
+  Ausland                                4
+  Österreich (anderes Bundesland)        1
+  Ort ohne Länderangabe                  1
+
+Nach Land/Region:
+  unbekannt                            598
+  Österreich                            63
+  Schweiz                                3
+  Deutschland                            1
+
+Nach Generation:
+  Gen  1:    2 Personen, davon 2 in Dornbirn geboren
+  Gen  2:    4 Personen, davon 3 in Dornbirn geboren
+  Gen  3:    8 Personen, davon 4 in Dornbirn geboren
+  Gen  4:   10 Personen, davon 7 in Dornbirn geboren
+  Gen  5:   18 Personen, davon 1 in Dornbirn geboren
+  Gen  6:   32 Personen, davon 3 in Dornbirn geboren
+  Gen  7:   62 Personen, davon 7 in Dornbirn geboren
+  Gen  8:  105 Personen, davon 7 in Dornbirn geboren
+  Gen  9:  161 Personen, davon 3 in Dornbirn geboren
+  Gen 10:  152 Personen, davon 1 in Dornbirn geboren
+  Gen 11:   80 Personen, davon 3 in Dornbirn geboren
+  Gen 12:   31 Personen, davon 1 in Dornbirn geboren

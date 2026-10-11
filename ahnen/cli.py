@@ -5,7 +5,7 @@ import csv
 from pathlib import Path
 
 from .analysis import report, summarize
-from .draw import render, to_dot
+from .draw import render, to_dot, to_svg
 from .gedcom import parse_gedcom
 from .scraper import fetch_tree, load_tree, save_tree
 
@@ -17,6 +17,7 @@ def main(argv: list[str] | None = None) -> None:
     ap.add_argument("--home", default="dornbirn", help="Heimatort für die Auswertung")
     ap.add_argument("--gedcom", help="statt Web: GEDCOM-Datei einlesen")
     ap.add_argument("--json", help="statt Web: gespeicherten Baum (JSON) einlesen")
+    ap.add_argument("--relation", metavar="ID2", help="Verwandtschaft zwischen --id und ID2 ermitteln")
     ap.add_argument("--generations", type=int, default=12)
     ap.add_argument("--delay", type=float, default=1.0, help="Sekunden zwischen Abrufen")
     ap.add_argument("--out", default="out", help="Ausgabeordner")
@@ -24,6 +25,15 @@ def main(argv: list[str] | None = None) -> None:
 
     out = Path(a.out)
     out.mkdir(exist_ok=True)
+    if a.relation:
+        from .relation import describe
+        tree = fetch_tree(a.id, a.ofb, a.generations, a.delay)
+        tree.update({k: v for k, v in fetch_tree(a.relation, a.ofb, a.generations, a.delay).items()
+                     if k not in tree})
+        text = describe(tree, a.id, a.relation)
+        print("\n" + text)
+        (out / f"verwandtschaft_{a.id}_{a.relation}.txt").write_text(text, encoding="utf-8")
+        return
     if a.gedcom:
         tree = parse_gedcom(a.gedcom)
     elif a.json:
@@ -43,7 +53,8 @@ def main(argv: list[str] | None = None) -> None:
         w.writeheader()
         w.writerows(s["rows"])
     img = render(to_dot(tree, a.id, a.home), out / "stammbaum")
-    print(f"\nGezeichnet: {img}" if img else "\nGraphviz ('dot') fehlt – nur stammbaum.dot geschrieben.")
+    (out / "stammbaum_ahnentafel.svg").write_text(to_svg(tree, a.id, a.home), encoding="utf-8")
+    print(f"\nGezeichnet: {out / 'stammbaum_ahnentafel.svg'}" + (f", {img}" if img else ""))
 
 
 if __name__ == "__main__":
