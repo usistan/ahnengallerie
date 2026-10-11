@@ -46,6 +46,21 @@ def _parse_report(html: str, pid: str) -> tuple[Person, list[str]]:
         a = cell.find("a", href=True) if cell else None
         if a and _id_of(a["href"]):
             setattr(person, attr, _id_of(a["href"]))
+    for u in soup.find_all("u"):
+        label = u.get_text(strip=True)
+        if not label.endswith(":") or label in ("Vater:", "Mutter:"):
+            continue
+        tds = u.find_parent("tr").find_all("td", recursive=False)
+        if len(tds) < 2:
+            continue
+        a = tds[1].find("a", href=lambda h: h and _id_of(h))
+        marr = re.search(r"⚭\s*([^\n⚭]*)", tds[1].get_text(" ", strip=True))
+        person.spouses.append({"id": _id_of(a["href"]) if a else None,
+                               "name": a.get_text(" ", strip=True) if a else "",
+                               "marriage_date": marr[1].strip() if marr else ""})
+        if len(tds) > 2:
+            person.children += [{"id": _id_of(c["href"]), "name": c.get_text(" ", strip=True)}
+                                for c in tds[2].find_all("a", href=lambda h: h and _id_of(h))]
     return person, [x for x in (person.father_id, person.mother_id) if x]
 
 

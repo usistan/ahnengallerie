@@ -35,22 +35,37 @@ def classify(place: str, home: str = "dornbirn") -> tuple[str, str]:
 
 def summarize(tree: Tree, start: str, home: str = "dornbirn") -> dict:
     gens = ancestors_by_generation(tree, start)
+    def ref(pid, name=""):
+        pid = pid if pid in tree or pid else None
+        return f"{name or (tree[pid].name if pid in tree else '')} ({pid})".strip() if pid or name else ""
+
+    child_of: dict[str, str] = {}   # Elternteil -> Kind, über das die Linie zur Startperson führt
+    for pid in gens:
+        for par in (tree[pid].father_id, tree[pid].mother_id):
+            if par:
+                child_of.setdefault(par, pid)
     rows = []
     for pid, g in sorted(gens.items(), key=lambda x: x[1]):
-        if g == 0:
-            continue
         p = tree[pid]
         cat, country = classify(p.birth_place, home)
-        rows.append({"id": pid, "gen": g, "name": p.name, "birth_place": p.birth_place,
-                     "category": cat, "country": country})
-    return {"rows": rows, "by_category": Counter(r["category"] for r in rows),
-            "by_country": Counter(r["country"] for r in rows),
+        rows.append({
+            "id": pid, "gen": g, "name": p.name,
+            "birth_date": p.birth_date, "birth_place": p.birth_place,
+            "category": cat, "country": country,
+            "father": ref(p.father_id), "mother": ref(p.mother_id),
+            "child_in_tree": ref(child_of.get(pid)),
+            "married_to": "; ".join(ref(s["id"], s["name"]) + (f" ⚭ {s['marriage_date']}" if s["marriage_date"] else "")
+                                    for s in p.spouses),
+            "children": "; ".join(ref(c["id"], c["name"]) for c in p.children)})
+    ancestors = [r for r in rows if r["gen"] > 0]
+    return {"rows": rows, "by_category": Counter(r["category"] for r in ancestors),
+            "by_country": Counter(r["country"] for r in ancestors),
             "missing_parents": sum(1 for pid in gens if pid in tree and
                                    (not tree[pid].father_id or not tree[pid].mother_id))}
 
 
 def report(summary: dict) -> str:
-    rows = summary["rows"]
+    rows = [r for r in summary["rows"] if r["gen"] > 0]
     n = len(rows)
     out = [f"Vorfahren gesamt (ohne Startperson): {n}"]
     cat = summary["by_category"]

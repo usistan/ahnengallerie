@@ -20,7 +20,7 @@ def test_classify():
 def test_summary():
     tree = parse_gedcom(SAMPLE)
     s = summarize(tree, "@I1@")
-    assert len(s["rows"]) == 5  # Hans, Anna, Karl, Maria, Luigi
+    assert len([r for r in s["rows"] if r["gen"] > 0]) == 5  # Hans, Anna, Karl, Maria, Luigi
     assert s["by_category"]["Dornbirn"] == 1
     assert s["by_country"]["Italien"] == 1
     assert "digraph" in to_dot(tree, "@I1@")
@@ -38,3 +38,16 @@ def test_scraper_parser_on_real_layout():
     p, parents = _parse_report(html, "I1")
     assert (p.father_id, p.mother_id) == ("I2", "I3")
     assert (p.birth_date, p.birth_place) == ("16.04.1941", "Dornbirn")
+
+
+def test_spouse_and_children():
+    html = (
+        '<FONT size=+1>Hans MUSTER</FONT>'
+        '<TR><TD><B><U>Ehegatte:</U></B></TD><TD><a href="famreport.php?ofb=dornbirn&ID=I9&lang=de">Eva</a>'
+        '<br>✶ 1910<br>&#9901; 07.09.1937 in Absam</TD>'
+        '<TD><a href="famreport.php?ofb=dornbirn&ID=I1&lang=de">Max</a> ✶ 1941<br>'
+        '<a href="famreport.php?ofb=dornbirn&ID=I4&lang=de">Lea</a></TD></TR>'
+    )
+    p, _ = _parse_report(html, "I2")
+    assert p.spouses == [{"id": "I9", "name": "Eva", "marriage_date": "07.09.1937 in Absam"}]
+    assert [c["id"] for c in p.children] == ["I1", "I4"]

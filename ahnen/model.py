@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 
 
 @dataclass
@@ -11,6 +11,9 @@ class Person:
     birth_place: str = ""
     father_id: str | None = None
     mother_id: str | None = None
+    # [{"id", "name", "marriage_date"}] bzw. [{"id", "name"}] laut Familienbericht
+    spouses: list[dict] = field(default_factory=list)
+    children: list[dict] = field(default_factory=list)
 
 
 Tree = dict[str, Person]
