@@ -51,3 +51,14 @@ def test_spouse_and_children():
     p, _ = _parse_report(html, "I2")
     assert p.spouses == [{"id": "I9", "name": "Eva", "marriage_date": "07.09.1937 in Absam"}]
     assert [c["id"] for c in p.children] == ["I1", "I4"]
+
+
+def test_relation_cousins():
+    from ahnen.model import Person
+    from ahnen.relation import find_relation
+    t = {i: Person(id=i) for i in "GAB12"}
+    t["A"].father_id = t["B"].father_id = "G"
+    t["1"].father_id, t["2"].father_id = "A", "B"
+    r = find_relation(t, "1", "2")
+    assert len(r) == 1 and r[0]["ancestor"] == "G"
+    assert r[0]["relationship"] == "Cousin/Cousine 1. Grades"
