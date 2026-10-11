@@ -15,22 +15,21 @@ COUNTRIES = {"deutschland", "germany", "schweiz", "switzerland", "liechtenstein"
 def classify(place: str, home: str = "dornbirn") -> tuple[str, str]:
     """(Kategorie, Land/Region) für einen Geburtsort."""
     parts = [p.strip() for p in place.split(",") if p.strip()]
-    if not parts:
+    low = [p.lower() for p in parts]
+    if not parts or low == ["unbekannt"]:
         return "unbekannt", "unbekannt"
-    town, rest = parts[0].lower(), [p.lower() for p in parts[1:]]
-    if town == home or town.startswith(home + " "):
+    town, rest = low[0], low[1:]
+    # Dornbirn selbst oder ein Ortsteil ("Oberdorf, Dornbirn, Vorarlberg, Österreich")
+    if town == home or town.startswith(home + " ") or home in rest:
         return "Dornbirn", "Österreich"
     tail = rest[-1] if rest else ""
     if tail in AT_NAMES or any(r in AT_REGIONS for r in rest):
-        region = next((r for r in rest if r in AT_REGIONS), "")
-        return ("Vorarlberg (ohne Dornbirn)" if region == "vorarlberg"
+        return ("Vorarlberg (ohne Dornbirn)" if "vorarlberg" in rest
                 else "Österreich (anderes Bundesland)"), "Österreich"
-    candidates = rest or [town]
-    for c in candidates:
-        if c in COUNTRIES:
-            return "Ausland", c.title()
     if rest:
         return "Ausland", tail.title()
+    if town in COUNTRIES:
+        return "Ausland", town.title()
     return "Ort ohne Länderangabe", "unbekannt"
 
 

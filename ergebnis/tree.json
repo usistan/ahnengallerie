@@ -1,0 +1,5330 @@
+{
+ "I376380": {
+  "id": "I376380",
+  "name": "Sieglinde (Linde) MÄSER",
+  "birth_date": "16.04.1941",
+  "birth_place": "Dornbirn",
+  "father_id": "I230391",
+  "mother_id": "I230394"
+ },
+ "I230391": {
+  "id": "I230391",
+  "name": "Franz Josef MÄSER",
+  "birth_date": "17.12.1909",
+  "birth_place": "Dornbirn",
+  "father_id": "I157792",
+  "mother_id": "I157789"
+ },
+ "I230394": {
+  "id": "I230394",
+  "name": "Hildegard FEURSTEIN",
+  "birth_date": "07.05.1917",
+  "birth_place": "Dornbirn",
+  "father_id": "I149079",
+  "mother_id": "I149082"
+ },
+ "I157792": {
+  "id": "I157792",
+  "name": "Jakob MÄSER",
+  "birth_date": "06.01.1875",
+  "birth_place": "Markt, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I187987",
+  "mother_id": "I176591"
+ },
+ "I157789": {
+  "id": "I157789",
+  "name": "Maria Anna GMEINDER",
+  "birth_date": "03.12.1877",
+  "birth_place": "Dornbirn",
+  "father_id": "I157555",
+  "mother_id": "I157558"
+ },
+ "I149079": {
+  "id": "I149079",
+  "name": "Benedikt FEURSTEIN",
+  "birth_date": "26.08.1888",
+  "birth_place": "Dornbirn",
+  "father_id": "I148229",
+  "mother_id": "I148232"
+ },
+ "I149082": {
+  "id": "I149082",
+  "name": "Maria Rosa KOCH",
+  "birth_date": "11.09.1879",
+  "birth_place": "Hagenwil, Amriswil, Thurgau, Schweiz",
+  "father_id": "I206348",
+  "mother_id": "I206349"
+ },
+ "I187987": {
+  "id": "I187987",
+  "name": "Johann Jakob (Wieners) MÄSER",
+  "birth_date": "07.10.1832",
+  "birth_place": "Dornbirn",
+  "father_id": "I226859",
+  "mother_id": "I218283"
+ },
+ "I176591": {
+  "id": "I176591",
+  "name": "Katharina FRENER",
+  "birth_date": "19.08.1831",
+  "birth_place": "Rieden, Bregenz, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I157555": {
+  "id": "I157555",
+  "name": "Johann GMEINDER",
+  "birth_date": "01.03.1841",
+  "birth_place": "",
+  "father_id": "I157433",
+  "mother_id": "I157436"
+ },
+ "I157558": {
+  "id": "I157558",
+  "name": "Maria Magdalena ÖLZ",
+  "birth_date": "21.07.1836",
+  "birth_place": "Dornbirn",
+  "father_id": "I157751",
+  "mother_id": "I157753"
+ },
+ "I148229": {
+  "id": "I148229",
+  "name": "August FEURSTEIN",
+  "birth_date": "26.02.1861",
+  "birth_place": "Dornbirn",
+  "father_id": "I147267",
+  "mother_id": "I147270"
+ },
+ "I148232": {
+  "id": "I148232",
+  "name": "Agatha ROHNER",
+  "birth_date": "13.02.1864",
+  "birth_place": "Dornbirn",
+  "father_id": "I149071",
+  "mother_id": "I149073"
+ },
+ "I206348": {
+  "id": "I206348",
+  "name": "Ignaz KOCH",
+  "birth_date": "22.12.1836",
+  "birth_place": "Tannheim, Tirol, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I206349": {
+  "id": "I206349",
+  "name": "Maria Elisabetha HAAG",
+  "birth_date": "22.09.1848",
+  "birth_place": "Hagenweil",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I226859": {
+  "id": "I226859",
+  "name": "Franz Josef (Josef Antons) MÄSER",
+  "birth_date": "19.01.1799",
+  "birth_place": "Dornbirn",
+  "father_id": "I175957",
+  "mother_id": "I175959"
+ },
+ "I218283": {
+  "id": "I218283",
+  "name": "Maria Franziska (Jakobs) RUSCH",
+  "birth_date": "08.11.1801",
+  "birth_place": "Dornbirn",
+  "father_id": "I192068",
+  "mother_id": "I227679"
+ },
+ "I157433": {
+  "id": "I157433",
+  "name": "Josef Anton (Johanns) GMEINDER",
+  "birth_date": "29.05.1799",
+  "birth_place": "",
+  "father_id": "I157381",
+  "mother_id": "I157384"
+ },
+ "I157436": {
+  "id": "I157436",
+  "name": "Magdalena (Johanns) LEHNER",
+  "birth_date": "01.10.1801",
+  "birth_place": "",
+  "father_id": "I113245",
+  "mother_id": "I113242"
+ },
+ "I157751": {
+  "id": "I157751",
+  "name": "Josef Anton (Peters) ÖLZ",
+  "birth_date": "15.12.1801",
+  "birth_place": "Haselstauden, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I238027",
+  "mother_id": "I238030"
+ },
+ "I157753": {
+  "id": "I157753",
+  "name": "Anna Maria (Josefs) LUGER",
+  "birth_date": "10.04.1805",
+  "birth_place": "Dornbirn",
+  "father_id": "I185425",
+  "mother_id": "I183750"
+ },
+ "I147267": {
+  "id": "I147267",
+  "name": "Josef Reinhard FEURSTEIN",
+  "birth_date": "27.01.1822",
+  "birth_place": "Dornbirn",
+  "father_id": "I105547",
+  "mother_id": "I105544"
+ },
+ "I147270": {
+  "id": "I147270",
+  "name": "Maria Anna HILBE",
+  "birth_date": "01.06.1822",
+  "birth_place": "Dornbirn",
+  "father_id": "I134125",
+  "mother_id": "I134122"
+ },
+ "I149071": {
+  "id": "I149071",
+  "name": "Kaspar ROHNER",
+  "birth_date": "28.01.1827",
+  "birth_place": "Dornbirn",
+  "father_id": "I102565",
+  "mother_id": "I102567"
+ },
+ "I149073": {
+  "id": "I149073",
+  "name": "Katharina DIETRICH",
+  "birth_date": "02.11.1831",
+  "birth_place": "Lauterach, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I175957": {
+  "id": "I175957",
+  "name": "Josef Anton (Augustins) MÄSER",
+  "birth_date": "13.06.1769",
+  "birth_place": "",
+  "father_id": "I225619",
+  "mother_id": "I225622"
+ },
+ "I175959": {
+  "id": "I175959",
+  "name": "Maria Agatha (Josefs) SOHM",
+  "birth_date": "20.08.1766",
+  "birth_place": "",
+  "father_id": "I200396",
+  "mother_id": "I200393"
+ },
+ "I192068": {
+  "id": "I192068",
+  "name": "Johann Jakob (Sebastians) RUSCH",
+  "birth_date": "08.04.1758",
+  "birth_place": "",
+  "father_id": "I257867",
+  "mother_id": "I257870"
+ },
+ "I227679": {
+  "id": "I227679",
+  "name": "Maria Anna SCHUGG",
+  "birth_date": "um 1775",
+  "birth_place": "Montafon, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I157381": {
+  "id": "I157381",
+  "name": "Johann (Martins) GMEINDER",
+  "birth_date": "09.12.1769",
+  "birth_place": "",
+  "father_id": "I157373",
+  "mother_id": "I157376"
+ },
+ "I157384": {
+  "id": "I157384",
+  "name": "Katharina FETZ",
+  "birth_date": "um 1761",
+  "birth_place": "unbekannt",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I113245": {
+  "id": "I113245",
+  "name": "Johann (Johanns) LEHNER",
+  "birth_date": "27.06.1755",
+  "birth_place": "",
+  "father_id": "I212613",
+  "mother_id": "I212616"
+ },
+ "I113242": {
+  "id": "I113242",
+  "name": "Maria Agatha (Josefs) BOBLETER",
+  "birth_date": "01.10.1763",
+  "birth_place": "",
+  "father_id": "I113035",
+  "mother_id": "I113038"
+ },
+ "I238027": {
+  "id": "I238027",
+  "name": "Johann Peter (Antons) ÖLZ",
+  "birth_date": "16.07.1776",
+  "birth_place": "",
+  "father_id": "I202894",
+  "mother_id": "I202891"
+ },
+ "I238030": {
+  "id": "I238030",
+  "name": "Maria Anna (Gabriels) RÜF",
+  "birth_date": "18.03.1774",
+  "birth_place": "",
+  "father_id": "I128377",
+  "mother_id": "I128379"
+ },
+ "I185425": {
+  "id": "I185425",
+  "name": "Josef Alois (Josefs) LUGER",
+  "birth_date": "06.12.1770",
+  "birth_place": "",
+  "father_id": "I215246",
+  "mother_id": "I215249"
+ },
+ "I183750": {
+  "id": "I183750",
+  "name": "Katharina (Georgs) SCHWENDINGER",
+  "birth_date": "20.11.1778",
+  "birth_place": "",
+  "father_id": "I102239",
+  "mother_id": "I102236"
+ },
+ "I105547": {
+  "id": "I105547",
+  "name": "Josef Anton FEURSTEIN",
+  "birth_date": "27.09.1774",
+  "birth_place": "",
+  "father_id": "I115723",
+  "mother_id": "I145782"
+ },
+ "I105544": {
+  "id": "I105544",
+  "name": "Katharina (Lorenzs) ALBRICH",
+  "birth_date": "10.03.1781",
+  "birth_place": "Oberdorf, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I104804",
+  "mother_id": "I104807"
+ },
+ "I134125": {
+  "id": "I134125",
+  "name": "Josef Ignaz (Peters) HILBE",
+  "birth_date": "31.07.1780",
+  "birth_place": "",
+  "father_id": "I161137",
+  "mother_id": "I160810"
+ },
+ "I134122": {
+  "id": "I134122",
+  "name": "Anna Maria (Johanns) DREXEL",
+  "birth_date": "01.05.1786",
+  "birth_place": "",
+  "father_id": "I133794",
+  "mother_id": "I133801"
+ },
+ "I102565": {
+  "id": "I102565",
+  "name": "Kaspar (Kaspas) ROHNER",
+  "birth_date": "16.08.1783",
+  "birth_place": "",
+  "father_id": "I106422",
+  "mother_id": "I106424"
+ },
+ "I102567": {
+  "id": "I102567",
+  "name": "Anna Maria (Peters) RUSCH",
+  "birth_date": "07.01.1786",
+  "birth_place": "",
+  "father_id": "I106444",
+  "mother_id": "I106446"
+ },
+ "I225619": {
+  "id": "I225619",
+  "name": "Augustin (Martins) MÄSER",
+  "birth_date": "05.08.1737",
+  "birth_place": "",
+  "father_id": "I225218",
+  "mother_id": "I225221"
+ },
+ "I225622": {
+  "id": "I225622",
+  "name": "Anna Maria (Antons) RÜNZLER",
+  "birth_date": "31.03.1729",
+  "birth_place": "",
+  "father_id": "I102256",
+  "mother_id": "I102258"
+ },
+ "I200396": {
+  "id": "I200396",
+  "name": "Josef (Johanns) SOHM",
+  "birth_date": "23.06.1741",
+  "birth_place": "",
+  "father_id": "I202431",
+  "mother_id": "I202428"
+ },
+ "I200393": {
+  "id": "I200393",
+  "name": "Maria (Michels) KECKLE",
+  "birth_date": "15.08.1738",
+  "birth_place": "",
+  "father_id": "I184398",
+  "mother_id": "I184400"
+ },
+ "I257867": {
+  "id": "I257867",
+  "name": "Sebastian (Jakobs) RUSCH",
+  "birth_date": "19.02.1733",
+  "birth_place": "",
+  "father_id": "I119740",
+  "mother_id": "I119737"
+ },
+ "I257870": {
+  "id": "I257870",
+  "name": "Maria Rosa (Franzus) ZUMTOBEL",
+  "birth_date": "24.06.1722",
+  "birth_place": "",
+  "father_id": "I171845",
+  "mother_id": "I171842"
+ },
+ "I157373": {
+  "id": "I157373",
+  "name": "Martin (Johanns) GMEINDER",
+  "birth_date": "27.08.1740",
+  "birth_place": "",
+  "father_id": "I145352",
+  "mother_id": "I145349"
+ },
+ "I157376": {
+  "id": "I157376",
+  "name": "Maria BRÜSTLE",
+  "birth_date": "06.12.1747",
+  "birth_place": "Alberschwende, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I212613": {
+  "id": "I212613",
+  "name": "Johannes (Johanns) LEHNER",
+  "birth_date": "15.01.1717",
+  "birth_place": "",
+  "father_id": "I127031",
+  "mother_id": "I127033"
+ },
+ "I212616": {
+  "id": "I212616",
+  "name": "Agatha (Michels) SALZMANN",
+  "birth_date": "10.09.1723",
+  "birth_place": "",
+  "father_id": "I171795",
+  "mother_id": "I171792"
+ },
+ "I113035": {
+  "id": "I113035",
+  "name": "Franz Josef (Michels) BOBLETER",
+  "birth_date": "08.05.1729",
+  "birth_place": "",
+  "father_id": "I112897",
+  "mother_id": "I112900"
+ },
+ "I113038": {
+  "id": "I113038",
+  "name": "Elisabetha (Bartlis) ÖLZ",
+  "birth_date": "17.07.1730",
+  "birth_place": "",
+  "father_id": "I113232",
+  "mother_id": "I111174"
+ },
+ "I202894": {
+  "id": "I202894",
+  "name": "Anton (Michels) ÖLZ",
+  "birth_date": "04.12.1726",
+  "birth_place": "Dornbirn",
+  "father_id": "I214771",
+  "mother_id": "I214768"
+ },
+ "I202891": {
+  "id": "I202891",
+  "name": "Katharina (Peters) KLOCKER",
+  "birth_date": "1748",
+  "birth_place": "",
+  "father_id": "I177857",
+  "mother_id": "I177839"
+ },
+ "I128377": {
+  "id": "I128377",
+  "name": "Gabriel (Georgs) RÜF",
+  "birth_date": "23.10.1731",
+  "birth_place": "",
+  "father_id": "I181954",
+  "mother_id": "I181949"
+ },
+ "I128379": {
+  "id": "I128379",
+  "name": "Maria Martha (Johanns) THURNHER",
+  "birth_date": "28.02.1741",
+  "birth_place": "",
+  "father_id": "I157340",
+  "mother_id": "I252432"
+ },
+ "I215246": {
+  "id": "I215246",
+  "name": "Franz Josef (Johanns) LUGER",
+  "birth_date": "14.02.1722",
+  "birth_place": "",
+  "father_id": "I214750",
+  "mother_id": "I214753"
+ },
+ "I215249": {
+  "id": "I215249",
+  "name": "Anna Maria (Martins) SOHM",
+  "birth_date": "04.11.1727",
+  "birth_place": "",
+  "father_id": "I215770",
+  "mother_id": "I215772"
+ },
+ "I102239": {
+  "id": "I102239",
+  "name": "Georg (Josefs) SCHWENDINGER",
+  "birth_date": "23.04.1740",
+  "birth_place": "",
+  "father_id": "I185041",
+  "mother_id": "I185043"
+ },
+ "I102236": {
+  "id": "I102236",
+  "name": "Maria Magdalena (Georgs) ALBINGER",
+  "birth_date": "14.10.1750",
+  "birth_place": "Dornbirn",
+  "father_id": "I102104",
+  "mother_id": "I102107"
+ },
+ "I115723": {
+  "id": "I115723",
+  "name": "Martin (Kristians) FEURSTEIN",
+  "birth_date": "02.05.1731",
+  "birth_place": "",
+  "father_id": "I103749",
+  "mother_id": "I103746"
+ },
+ "I145782": {
+  "id": "I145782",
+  "name": "Katharina (Antons) RICK",
+  "birth_date": "01.08.1738",
+  "birth_place": "",
+  "father_id": "I146337",
+  "mother_id": "I146339"
+ },
+ "I104804": {
+  "id": "I104804",
+  "name": "Lorenz (Felix) ALBRICH",
+  "birth_date": "29.12.1741",
+  "birth_place": "Oberdorf, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I104308",
+  "mother_id": "I104311"
+ },
+ "I104807": {
+  "id": "I104807",
+  "name": "Katharina (Johanns) SCHWENDINGER",
+  "birth_date": "03.10.1754",
+  "birth_place": "",
+  "father_id": "I105530",
+  "mother_id": "I105532"
+ },
+ "I161137": {
+  "id": "I161137",
+  "name": "Peter (Josefs) HILBE",
+  "birth_date": "30.06.1744",
+  "birth_place": "",
+  "father_id": "I143363",
+  "mother_id": "I143365"
+ },
+ "I160810": {
+  "id": "I160810",
+  "name": "Maria Magdalena (Jakobs) MÄSER",
+  "birth_date": "13.10.1747",
+  "birth_place": "",
+  "father_id": "I161133",
+  "mother_id": "I161135"
+ },
+ "I133794": {
+  "id": "I133794",
+  "name": "Johannes (Georgs) DREXEL",
+  "birth_date": "11.07.1740",
+  "birth_place": "",
+  "father_id": "I133640",
+  "mother_id": "I133645"
+ },
+ "I133801": {
+  "id": "I133801",
+  "name": "Anna Maria (Johanns) THURNHER",
+  "birth_date": "28.06.1752",
+  "birth_place": "",
+  "father_id": "I134086",
+  "mother_id": "I134088"
+ },
+ "I106422": {
+  "id": "I106422",
+  "name": "Kaspar ROHNER",
+  "birth_date": "06.07.1746",
+  "birth_place": "Gabelier, Schwarzach, Vorarlberg, Österreich",
+  "father_id": "I251216",
+  "mother_id": "I251218"
+ },
+ "I106424": {
+  "id": "I106424",
+  "name": "Anna Maria (Martins) KOHLER",
+  "birth_date": "16.10.1743",
+  "birth_place": "",
+  "father_id": "I196104",
+  "mother_id": "I196101"
+ },
+ "I106444": {
+  "id": "I106444",
+  "name": "Johann Peter (Josefs) RUSCH",
+  "birth_date": "26.01.1753",
+  "birth_place": "",
+  "father_id": "I200541",
+  "mother_id": "I200543"
+ },
+ "I106446": {
+  "id": "I106446",
+  "name": "Anna Maria (Sebastians) WINSAUER",
+  "birth_date": "11.05.1749",
+  "birth_place": "",
+  "father_id": "I231614",
+  "mother_id": "I231611"
+ },
+ "I225218": {
+  "id": "I225218",
+  "name": "Martin (Johanns) MÄSER",
+  "birth_date": "14.06.1704",
+  "birth_place": "",
+  "father_id": "I224867",
+  "mother_id": "I224870"
+ },
+ "I225221": {
+  "id": "I225221",
+  "name": "Anastasia (Augustins) SCHWENDINGER",
+  "birth_date": "27.07.1706",
+  "birth_place": "",
+  "father_id": "I225605",
+  "mother_id": "I225607"
+ },
+ "I102256": {
+  "id": "I102256",
+  "name": "Anton (Michaels) RÜNZLER",
+  "birth_date": "04.02.1694",
+  "birth_place": "",
+  "father_id": "I136934",
+  "mother_id": "I136931"
+ },
+ "I102258": {
+  "id": "I102258",
+  "name": "Zäzilia (Jakobs) EILER",
+  "birth_date": "22.11.1696",
+  "birth_place": "",
+  "father_id": "I141656",
+  "mother_id": "I141661"
+ },
+ "I202431": {
+  "id": "I202431",
+  "name": "Johann (Klosus) SOHM",
+  "birth_date": "27.12.1705",
+  "birth_place": "",
+  "father_id": "I136940",
+  "mother_id": "I137532"
+ },
+ "I202428": {
+  "id": "I202428",
+  "name": "Agatha (Johanns) KLOCKER",
+  "birth_date": "26.02.1706",
+  "birth_place": "",
+  "father_id": "I113059",
+  "mother_id": "I113061"
+ },
+ "I184398": {
+  "id": "I184398",
+  "name": "Michael (Bartlis) KECKLE",
+  "birth_date": "03.09.1705",
+  "birth_place": "",
+  "father_id": "I114995",
+  "mother_id": "I114787"
+ },
+ "I184400": {
+  "id": "I184400",
+  "name": "Agatha (Christians) MOOSBRUGGER",
+  "birth_date": "20.05.1716",
+  "birth_place": "",
+  "father_id": "I109701",
+  "mother_id": "I200385"
+ },
+ "I119740": {
+  "id": "I119740",
+  "name": "Jakob (Michels) RUSCH",
+  "birth_date": "03.01.1689",
+  "birth_place": "",
+  "father_id": "I109611",
+  "mother_id": "I109613"
+ },
+ "I119737": {
+  "id": "I119737",
+  "name": "Anna REIN",
+  "birth_date": "09.08.1689",
+  "birth_place": "",
+  "father_id": "I119484",
+  "mother_id": "I119487"
+ },
+ "I171845": {
+  "id": "I171845",
+  "name": "Franz Plazidus (Bartlis) ZUMTOBEL",
+  "birth_date": "15.07.1685",
+  "birth_place": "",
+  "father_id": "I160651",
+  "mother_id": "I294043"
+ },
+ "I171842": {
+  "id": "I171842",
+  "name": "Maria (Heinrichs) HILBE",
+  "birth_date": "27.01.1688",
+  "birth_place": "",
+  "father_id": "I103795",
+  "mother_id": "I171513"
+ },
+ "I145352": {
+  "id": "I145352",
+  "name": "Johann (Martins) GMEINDER",
+  "birth_date": "01.08.1705",
+  "birth_place": "",
+  "father_id": "I146038",
+  "mother_id": "I146040"
+ },
+ "I145349": {
+  "id": "I145349",
+  "name": "Katharina (Martins) FEURSTEIN",
+  "birth_date": "27.09.1694",
+  "birth_place": "",
+  "father_id": "I104450",
+  "mother_id": "I104452"
+ },
+ "I127031": {
+  "id": "I127031",
+  "name": "Johann (Andreiusus) LEHNER",
+  "birth_date": "19.02.1678",
+  "birth_place": "",
+  "father_id": "I212474",
+  "mother_id": "I212477"
+ },
+ "I127033": {
+  "id": "I127033",
+  "name": "Maria MOOSBRUGGER",
+  "birth_date": "10.12.1680",
+  "birth_place": "Dornbirn",
+  "father_id": "I212583",
+  "mother_id": "I212585"
+ },
+ "I171795": {
+  "id": "I171795",
+  "name": "Michael (Konrads) SALZMANN",
+  "birth_date": "27.09.1679",
+  "birth_place": "",
+  "father_id": "I260971",
+  "mother_id": "I260974"
+ },
+ "I171792": {
+  "id": "I171792",
+  "name": "Magdalena (Georgs) HILBE",
+  "birth_date": "30.01.1701",
+  "birth_place": "",
+  "father_id": "I171571",
+  "mother_id": "I171574"
+ },
+ "I112897": {
+  "id": "I112897",
+  "name": "Michael (Georgs) BOBLETER",
+  "birth_date": "01.09.1682",
+  "birth_place": "",
+  "father_id": "I112779",
+  "mother_id": "I112782"
+ },
+ "I112900": {
+  "id": "I112900",
+  "name": "Katharina (Peters) VONRIED",
+  "birth_date": "06.10.1695",
+  "birth_place": "",
+  "father_id": "I113011",
+  "mother_id": "I113013"
+ },
+ "I113232": {
+  "id": "I113232",
+  "name": "Bartholomä (Martis) ÖLZ",
+  "birth_date": "23.08.1687",
+  "birth_place": "",
+  "father_id": "I173926",
+  "mother_id": "I173923"
+ },
+ "I111174": {
+  "id": "I111174",
+  "name": "Katharina (Christians) WEHINGER",
+  "birth_date": "24.11.1693",
+  "birth_place": "",
+  "father_id": "I181134",
+  "mother_id": "I181131"
+ },
+ "I214771": {
+  "id": "I214771",
+  "name": "Michael (Martis) ÖLZ",
+  "birth_date": "24.09.1695",
+  "birth_place": "Dornbirn",
+  "father_id": "I173926",
+  "mother_id": "I173923"
+ },
+ "I214768": {
+  "id": "I214768",
+  "name": "Magdalena (Georgs) LUGER",
+  "birth_date": "14.04.1698",
+  "birth_place": "",
+  "father_id": "I112828",
+  "mother_id": "I205857"
+ },
+ "I177857": {
+  "id": "I177857",
+  "name": "Peter (Michls) KLOCKER",
+  "birth_date": "29.06.1712",
+  "birth_place": "",
+  "father_id": "I115157",
+  "mother_id": "I115159"
+ },
+ "I177839": {
+  "id": "I177839",
+  "name": "Magdalena (Johanns) SOHM",
+  "birth_date": "10.02.1719",
+  "birth_place": "",
+  "father_id": "I165035",
+  "mother_id": "I165037"
+ },
+ "I181954": {
+  "id": "I181954",
+  "name": "Georg (Kaspas) RÜF",
+  "birth_date": "20.05.1695",
+  "birth_place": "",
+  "father_id": "I173941",
+  "mother_id": "I164104"
+ },
+ "I181949": {
+  "id": "I181949",
+  "name": "Katharina (Thomas) HUBER",
+  "birth_date": "12.04.1700",
+  "birth_place": "",
+  "father_id": "I168635",
+  "mother_id": "I168637"
+ },
+ "I157340": {
+  "id": "I157340",
+  "name": "Johann THURNHER",
+  "birth_date": "17.09.1708",
+  "birth_place": "",
+  "father_id": "I252298",
+  "mother_id": "I252300"
+ },
+ "I252432": {
+  "id": "I252432",
+  "name": "Anna Katharina (Johanns) WÄLLPE",
+  "birth_date": "09.02.1711",
+  "birth_place": "",
+  "father_id": "I181400",
+  "mother_id": "I181397"
+ },
+ "I214750": {
+  "id": "I214750",
+  "name": "Johann (Georgs) LUGER",
+  "birth_date": "02.02.1677",
+  "birth_place": "",
+  "father_id": "I112828",
+  "mother_id": "I112825"
+ },
+ "I214753": {
+  "id": "I214753",
+  "name": "Maria (Wendels) RÜMMELE",
+  "birth_date": "17.02.1680",
+  "birth_place": "",
+  "father_id": "I109259",
+  "mother_id": "I215228"
+ },
+ "I215770": {
+  "id": "I215770",
+  "name": "Martin (Jakobs) SOHM",
+  "birth_date": "21.10.1684",
+  "birth_place": "",
+  "father_id": "I211664",
+  "mother_id": "I211666"
+ },
+ "I215772": {
+  "id": "I215772",
+  "name": "Anna PREUß (BREUß)",
+  "birth_date": "um 1700",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I185041": {
+  "id": "I185041",
+  "name": "Josef (Ignzs) SCHWENDINGER",
+  "birth_date": "01.11.1718",
+  "birth_place": "",
+  "father_id": "I260743",
+  "mother_id": "I260740"
+ },
+ "I185043": {
+  "id": "I185043",
+  "name": "Anna (Lukasus) KOHLER",
+  "birth_date": "08.03.1711",
+  "birth_place": "",
+  "father_id": "I208989",
+  "mother_id": "I208994"
+ },
+ "I102104": {
+  "id": "I102104",
+  "name": "Georg (Ulrichs) ALBINGER",
+  "birth_date": "06.02.1709",
+  "birth_place": "Dornbirn",
+  "father_id": "I102044",
+  "mother_id": "I102047"
+ },
+ "I102107": {
+  "id": "I102107",
+  "name": "Maria (Josefs) THURNHER",
+  "birth_date": "10.04.1721",
+  "birth_place": "",
+  "father_id": "I102224",
+  "mother_id": "I102226"
+ },
+ "I103749": {
+  "id": "I103749",
+  "name": "Christian (Martes) FEURSTEIN",
+  "birth_date": "11.10.1699",
+  "birth_place": "Bürgle, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I137106",
+  "mother_id": "I137103"
+ },
+ "I103746": {
+  "id": "I103746",
+  "name": "Katharina (Johanns) ALBRICH",
+  "birth_date": "um 1700",
+  "birth_place": "Dornbirn",
+  "father_id": "I103702",
+  "mother_id": "I103705"
+ },
+ "I146337": {
+  "id": "I146337",
+  "name": "Anton RICK",
+  "birth_date": "um 1690",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I146339": {
+  "id": "I146339",
+  "name": "Barbara KECKLE",
+  "birth_date": "um 1690",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I104308": {
+  "id": "I104308",
+  "name": "Felix (Johanns) ALBRICH",
+  "birth_date": "14.03.1706",
+  "birth_place": "Oberdorf, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I103844",
+  "mother_id": "I103847"
+ },
+ "I104311": {
+  "id": "I104311",
+  "name": "Barbara KECKLE",
+  "birth_date": "24.02.1707",
+  "birth_place": "",
+  "father_id": "I104788",
+  "mother_id": "I104790"
+ },
+ "I105530": {
+  "id": "I105530",
+  "name": "Johann (Sebastians) SCHWENDINGER",
+  "birth_date": "27.08.1722",
+  "birth_place": "",
+  "father_id": "I133762",
+  "mother_id": "I133764"
+ },
+ "I105532": {
+  "id": "I105532",
+  "name": "Katharina (Marcus) SPIEGEL",
+  "birth_date": "22.04.1725",
+  "birth_place": "",
+  "father_id": "I257666",
+  "mother_id": "I257663"
+ },
+ "I143363": {
+  "id": "I143363",
+  "name": "Josef (Heinrichs) HILBE",
+  "birth_date": "17.05.1708",
+  "birth_place": "",
+  "father_id": "I103795",
+  "mother_id": "I103792"
+ },
+ "I143365": {
+  "id": "I143365",
+  "name": "Anna Maria (Martins) FUSSENEGGER",
+  "birth_date": "16.04.1719",
+  "birth_place": "",
+  "father_id": "I150548",
+  "mother_id": "I150551"
+ },
+ "I161133": {
+  "id": "I161133",
+  "name": "Jakob (Georgs) MÄSER",
+  "birth_date": "17.12.1694",
+  "birth_place": "",
+  "father_id": "I224781",
+  "mother_id": "I224784"
+ },
+ "I161135": {
+  "id": "I161135",
+  "name": "Anna (Thomasus) HEFEL",
+  "birth_date": "28.03.1707",
+  "birth_place": "Dornbirn",
+  "father_id": "I103857",
+  "mother_id": "I103854"
+ },
+ "I133640": {
+  "id": "I133640",
+  "name": "Georg (Martis) DREXEL",
+  "birth_date": "26.09.1701",
+  "birth_place": "",
+  "father_id": "I132164",
+  "mother_id": "I132103"
+ },
+ "I133645": {
+  "id": "I133645",
+  "name": "Margaretha (Sebastians) SCHWENDINGER",
+  "birth_date": "30.10.1705",
+  "birth_place": "",
+  "father_id": "I133762",
+  "mother_id": "I133764"
+ },
+ "I134086": {
+  "id": "I134086",
+  "name": "Johannes (Josefs) THURNHER",
+  "birth_date": "24.10.1717",
+  "birth_place": "",
+  "father_id": "I102224",
+  "mother_id": "I102226"
+ },
+ "I134088": {
+  "id": "I134088",
+  "name": "Maria Sabina (Konrads) SALZMANN",
+  "birth_date": "07.12.1730",
+  "birth_place": "",
+  "father_id": "I113158",
+  "mother_id": "I113160"
+ },
+ "I251216": {
+  "id": "I251216",
+  "name": "Johann ROHNER",
+  "birth_date": "12.04.1709",
+  "birth_place": "Bildstein, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I251218": {
+  "id": "I251218",
+  "name": "Barbara GASSER",
+  "birth_date": "21.10.1721",
+  "birth_place": "Bildstein, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I196104": {
+  "id": "I196104",
+  "name": "Martin KOHLER",
+  "birth_date": "29.08.1703",
+  "birth_place": "",
+  "father_id": "I208989",
+  "mother_id": "I208992"
+ },
+ "I196101": {
+  "id": "I196101",
+  "name": "Agatha (Kaspas) KAUFMANN",
+  "birth_date": "28.08.1707",
+  "birth_place": "",
+  "father_id": "I195865",
+  "mother_id": "I195868"
+ },
+ "I200541": {
+  "id": "I200541",
+  "name": "Josef (Johanns) RUSCH",
+  "birth_date": "15.08.1716",
+  "birth_place": "",
+  "father_id": "I236003",
+  "mother_id": "I236000"
+ },
+ "I200543": {
+  "id": "I200543",
+  "name": "Anna Maria (Peters) WINSAUER",
+  "birth_date": "10.01.1729",
+  "birth_place": "",
+  "father_id": "I226001",
+  "mother_id": "I226003"
+ },
+ "I231614": {
+  "id": "I231614",
+  "name": "Sebastian (Jakobs) WINSAUER",
+  "birth_date": "17.01.1710",
+  "birth_place": "",
+  "father_id": "I102196",
+  "mother_id": "I102198"
+ },
+ "I231611": {
+  "id": "I231611",
+  "name": "Agatha (Michels) MÄTZLER",
+  "birth_date": "06.02.1718",
+  "birth_place": "",
+  "father_id": "I109282",
+  "mother_id": "I109279"
+ },
+ "I224867": {
+  "id": "I224867",
+  "name": "Johannes (Martins) MÄSER",
+  "birth_date": "15.12.1672",
+  "birth_place": "",
+  "father_id": "I126708",
+  "mother_id": "I126710"
+ },
+ "I224870": {
+  "id": "I224870",
+  "name": "Katharina MÄTZLER",
+  "birth_date": "26.12.1674",
+  "birth_place": "",
+  "father_id": "I182110",
+  "mother_id": "I182112"
+ },
+ "I225605": {
+  "id": "I225605",
+  "name": "Augustin (Thisus) SCHWENDINGER",
+  "birth_date": "30.08.1676",
+  "birth_place": "",
+  "father_id": "I268442",
+  "mother_id": "I268445"
+ },
+ "I225607": {
+  "id": "I225607",
+  "name": "Agatha (Martins) RÜMMELE",
+  "birth_date": "08.02.1679",
+  "birth_place": "",
+  "father_id": "I150660",
+  "mother_id": "I150662"
+ },
+ "I136934": {
+  "id": "I136934",
+  "name": "Michael (Kristins) RÜNZLER",
+  "birth_date": "um 1635",
+  "birth_place": "",
+  "father_id": "I102034",
+  "mother_id": "I102036"
+ },
+ "I136931": {
+  "id": "I136931",
+  "name": "Agatha (Georgs) DÜNSER",
+  "birth_date": "12.11.1663",
+  "birth_place": "",
+  "father_id": "I103995",
+  "mother_id": "I103991"
+ },
+ "I141656": {
+  "id": "I141656",
+  "name": "Jakob (Georgs) EILER",
+  "birth_date": "01.05.1654",
+  "birth_place": "",
+  "father_id": "I141644",
+  "mother_id": "I141645"
+ },
+ "I141661": {
+  "id": "I141661",
+  "name": "Anna RÜMMELE",
+  "birth_date": "um 1665",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I136940": {
+  "id": "I136940",
+  "name": "Nikolaus (Martins) SOHM",
+  "birth_date": "06.12.1677",
+  "birth_place": "",
+  "father_id": "I196085",
+  "mother_id": "I196087"
+ },
+ "I137532": {
+  "id": "I137532",
+  "name": "Katharina (Michls) RÜNZLER",
+  "birth_date": "17.01.1678",
+  "birth_place": "",
+  "father_id": "I136934",
+  "mother_id": "I220217"
+ },
+ "I113059": {
+  "id": "I113059",
+  "name": "Johann (Adams) KLOCKER",
+  "birth_date": "08.01.1677",
+  "birth_place": "",
+  "father_id": "I201764",
+  "mother_id": "I201767"
+ },
+ "I113061": {
+  "id": "I113061",
+  "name": "Barbara KLOCKER",
+  "birth_date": "um 1677",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I114995": {
+  "id": "I114995",
+  "name": "Bartle (Martins) KECKLE",
+  "birth_date": "um 1648",
+  "birth_place": "",
+  "father_id": "I103834",
+  "mother_id": "I103836"
+ },
+ "I114787": {
+  "id": "I114787",
+  "name": "Maria (Michls) HUBER",
+  "birth_date": "31.03.1670",
+  "birth_place": "",
+  "father_id": "I108756",
+  "mother_id": "I108753"
+ },
+ "I109701": {
+  "id": "I109701",
+  "name": "Christian (Johanns) MOOSBRUGGER",
+  "birth_date": "09.12.1684",
+  "birth_place": "",
+  "father_id": "I208929",
+  "mother_id": "I208926"
+ },
+ "I200385": {
+  "id": "I200385",
+  "name": "Barbara (Georgs) ROTH",
+  "birth_date": "02.09.1689",
+  "birth_place": "",
+  "father_id": "I167865",
+  "mother_id": "I167862"
+ },
+ "I109611": {
+  "id": "I109611",
+  "name": "Michael (Jakobs) RUSCH",
+  "birth_date": "um 1647",
+  "birth_place": "",
+  "father_id": "I122060",
+  "mother_id": "I122062"
+ },
+ "I109613": {
+  "id": "I109613",
+  "name": "Anna (Jakobs) KLOCKER",
+  "birth_date": "23.09.1661",
+  "birth_place": "",
+  "father_id": "I144892",
+  "mother_id": "I144889"
+ },
+ "I119484": {
+  "id": "I119484",
+  "name": "Sebastian (Klemenses) REIN",
+  "birth_date": "09.01.1658",
+  "birth_place": "",
+  "father_id": "I119384",
+  "mother_id": "I119387"
+ },
+ "I119487": {
+  "id": "I119487",
+  "name": "Katharina (Wendelins) RÜMMELE",
+  "birth_date": "08.10.1659",
+  "birth_place": "",
+  "father_id": "I109259",
+  "mother_id": "I109261"
+ },
+ "I160651": {
+  "id": "I160651",
+  "name": "Bartholomä (Bartles) ZUMTOBEL",
+  "birth_date": "um 1655",
+  "birth_place": "",
+  "father_id": "I160476",
+  "mother_id": "I174058"
+ },
+ "I294043": {
+  "id": "I294043",
+  "name": "Maria Rosa (Ammann Georgs) WEHINGER",
+  "birth_date": "06.12.1655",
+  "birth_place": "",
+  "father_id": "I144924",
+  "mother_id": "I167807"
+ },
+ "I103795": {
+  "id": "I103795",
+  "name": "Heinrich (Georgs/Beck) HILBE",
+  "birth_date": "26.05.1658",
+  "birth_place": "",
+  "father_id": "I171463",
+  "mother_id": "I171468"
+ },
+ "I171513": {
+  "id": "I171513",
+  "name": "Anna SALZMANN",
+  "birth_date": "um 1658",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I146038": {
+  "id": "I146038",
+  "name": "Martin GMEINDER",
+  "birth_date": "03.10.1664",
+  "birth_place": "",
+  "father_id": "I157214",
+  "mother_id": "I157217"
+ },
+ "I146040": {
+  "id": "I146040",
+  "name": "Maria (Michels) ROHNER",
+  "birth_date": "15.03.1660",
+  "birth_place": "",
+  "father_id": "I157329",
+  "mother_id": "I157331"
+ },
+ "I104450": {
+  "id": "I104450",
+  "name": "Martin (Jos) FEURSTEIN",
+  "birth_date": "09.08.1640",
+  "birth_place": "",
+  "father_id": "I103239",
+  "mother_id": "I103236"
+ },
+ "I104452": {
+  "id": "I104452",
+  "name": "Maria (Michels) RUSCH",
+  "birth_date": "08.01.1659",
+  "birth_place": "",
+  "father_id": "I108750",
+  "mother_id": "I108747"
+ },
+ "I212474": {
+  "id": "I212474",
+  "name": "Andrä (Georgs) LEHNER",
+  "birth_date": "um 1651",
+  "birth_place": "",
+  "father_id": "I212464",
+  "mother_id": "I212465"
+ },
+ "I212477": {
+  "id": "I212477",
+  "name": "Agatha MÄTZLER",
+  "birth_date": "um 1651",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I212583": {
+  "id": "I212583",
+  "name": "Thomas MOOSBRUGGER",
+  "birth_date": "um 1635",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I212585": {
+  "id": "I212585",
+  "name": "Margaretha (Michls) WEHINGER",
+  "birth_date": "um 1635",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I260971": {
+  "id": "I260971",
+  "name": "Konrad (Ulrichs) SALZMANN",
+  "birth_date": "um 1640",
+  "birth_place": "",
+  "father_id": "I260868",
+  "mother_id": "I260871"
+ },
+ "I260974": {
+  "id": "I260974",
+  "name": "Maria (Felixus) SALZMANN",
+  "birth_date": "um 1640",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I171571": {
+  "id": "I171571",
+  "name": "Georg (Johanns) HILBE",
+  "birth_date": "01.03.1667",
+  "birth_place": "",
+  "father_id": "I171543",
+  "mother_id": "I171548"
+ },
+ "I171574": {
+  "id": "I171574",
+  "name": "Maria (Thisus) ROTH",
+  "birth_date": "15.01.1672",
+  "birth_place": "",
+  "father_id": "I171780",
+  "mother_id": "I171782"
+ },
+ "I112779": {
+  "id": "I112779",
+  "name": "Georg (Thomas) BOBLETER",
+  "birth_date": "um 1645",
+  "birth_place": "",
+  "father_id": "I112749",
+  "mother_id": "I112751"
+ },
+ "I112782": {
+  "id": "I112782",
+  "name": "Anna MUXEL",
+  "birth_date": "1645",
+  "birth_place": "Bregenzerwald, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I113011": {
+  "id": "I113011",
+  "name": "Peter (Hannibals) VONRIED",
+  "birth_date": "20.09.1653",
+  "birth_place": "",
+  "father_id": "I292833",
+  "mother_id": "I292836"
+ },
+ "I113013": {
+  "id": "I113013",
+  "name": "Maria Rosa (Thomases) RHOMBERG",
+  "birth_date": "11.11.1668",
+  "birth_place": "",
+  "father_id": "I167839",
+  "mother_id": "I167836"
+ },
+ "I173926": {
+  "id": "I173926",
+  "name": "Martin (Thomas) ÖLZ",
+  "birth_date": "05.01.1653",
+  "birth_place": "",
+  "father_id": "I237449",
+  "mother_id": "I237452"
+ },
+ "I173923": {
+  "id": "I173923",
+  "name": "Agatha (Ulrichs) RHOMBERG",
+  "birth_date": "27.12.1656",
+  "birth_place": "",
+  "father_id": "I173852",
+  "mother_id": "I173855"
+ },
+ "I181134": {
+  "id": "I181134",
+  "name": "Christian WEHINGER",
+  "birth_date": "29.04.1657",
+  "birth_place": "",
+  "father_id": "I173898",
+  "mother_id": "I174098"
+ },
+ "I181131": {
+  "id": "I181131",
+  "name": "Elisabetha (Martins) HUBER",
+  "birth_date": "07.02.1671",
+  "birth_place": "",
+  "father_id": "I180611",
+  "mother_id": "I180616"
+ },
+ "I112828": {
+  "id": "I112828",
+  "name": "Georg (Konrads) LUGER",
+  "birth_date": "um 1649",
+  "birth_place": "",
+  "father_id": "I125982",
+  "mother_id": "I125984"
+ },
+ "I205857": {
+  "id": "I205857",
+  "name": "Anna RÜMMELE",
+  "birth_date": "um 1666",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I115157": {
+  "id": "I115157",
+  "name": "Michael (Martins) KLOCKER",
+  "birth_date": "16.02.1675",
+  "birth_place": "",
+  "father_id": "I201820",
+  "mother_id": "I201823"
+ },
+ "I115159": {
+  "id": "I115159",
+  "name": "Katharina (Bartlis) SOHM",
+  "birth_date": "26.11.1672",
+  "birth_place": "",
+  "father_id": "I202298",
+  "mother_id": "I202300"
+ },
+ "I165035": {
+  "id": "I165035",
+  "name": "Johann SOHM",
+  "birth_date": "um 1685",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I165037": {
+  "id": "I165037",
+  "name": "Regina (Martins) HEINZLE",
+  "birth_date": "21.08.1687",
+  "birth_place": "",
+  "father_id": "I102086",
+  "mother_id": "I102088"
+ },
+ "I173941": {
+  "id": "I173941",
+  "name": "Kaspar RÜF",
+  "birth_date": "07.04.1652",
+  "birth_place": "",
+  "father_id": "I195966",
+  "mother_id": "I195968"
+ },
+ "I164104": {
+  "id": "I164104",
+  "name": "Barbara (Thomas) RHOMBERG",
+  "birth_date": "11.10.1663",
+  "birth_place": "",
+  "father_id": "I167839",
+  "mother_id": "I167836"
+ },
+ "I168635": {
+  "id": "I168635",
+  "name": "Thomas (Michls) HUBER",
+  "birth_date": "07.02.1664",
+  "birth_place": "",
+  "father_id": "I145498",
+  "mother_id": "I145500"
+ },
+ "I168637": {
+  "id": "I168637",
+  "name": "Franziska HAGEN",
+  "birth_date": "26.12.1673",
+  "birth_place": "Lustenau, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I252298": {
+  "id": "I252298",
+  "name": "Ulrich (Thomas) THURNHER",
+  "birth_date": "27.01.1675",
+  "birth_place": "",
+  "father_id": "I266980",
+  "mother_id": "I266977"
+ },
+ "I252300": {
+  "id": "I252300",
+  "name": "Martha (Johanns) SALZMANN",
+  "birth_date": "04.08.1684",
+  "birth_place": "",
+  "father_id": "I174897",
+  "mother_id": "I174899"
+ },
+ "I181400": {
+  "id": "I181400",
+  "name": "Johannes (Johannes) WÄLLPE",
+  "birth_date": "11.12.1675",
+  "birth_place": "",
+  "father_id": "I122280",
+  "mother_id": "I122282"
+ },
+ "I181397": {
+  "id": "I181397",
+  "name": "Barbara HUBER",
+  "birth_date": "17.05.1679",
+  "birth_place": "",
+  "father_id": "I180693",
+  "mother_id": "I180696"
+ },
+ "I112825": {
+  "id": "I112825",
+  "name": "Magdalena (Johanns) BOBLETER",
+  "birth_date": "um 1650",
+  "birth_place": "",
+  "father_id": "I112744",
+  "mother_id": "I112746"
+ },
+ "I109259": {
+  "id": "I109259",
+  "name": "Wendelin (Leonharts) RÜMMELE",
+  "birth_date": "um 1630",
+  "birth_place": "",
+  "father_id": "I145019",
+  "mother_id": "I145021"
+ },
+ "I215228": {
+  "id": "I215228",
+  "name": "Agatha HUBER",
+  "birth_date": "um 1640",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I211664": {
+  "id": "I211664",
+  "name": "Jakob (Gallis) SOHM",
+  "birth_date": "29.06.1651",
+  "birth_place": "",
+  "father_id": "I276220",
+  "mother_id": "I276225"
+ },
+ "I211666": {
+  "id": "I211666",
+  "name": "Maria (Georgs) SPIEGEL",
+  "birth_date": "05.07.1655",
+  "birth_place": "",
+  "father_id": "I276518",
+  "mother_id": "I276520"
+ },
+ "I260743": {
+  "id": "I260743",
+  "name": "Ignaz SCHWENDINGER",
+  "birth_date": "24.11.1686",
+  "birth_place": "",
+  "father_id": "I139922",
+  "mother_id": "I139924"
+ },
+ "I260740": {
+  "id": "I260740",
+  "name": "Maria (Ulrichs) ROTH",
+  "birth_date": "23.01.1674",
+  "birth_place": "",
+  "father_id": "I214370",
+  "mother_id": "I111211"
+ },
+ "I208989": {
+  "id": "I208989",
+  "name": "Lukas (Adams) KOHLER",
+  "birth_date": "20.03.1659",
+  "birth_place": "",
+  "father_id": "I200750",
+  "mother_id": "I200747"
+ },
+ "I208994": {
+  "id": "I208994",
+  "name": "Maria HUBER",
+  "birth_date": "um 1681",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I102044": {
+  "id": "I102044",
+  "name": "Ulrich (Bartlis) ALBINGER",
+  "birth_date": "22.05.1684",
+  "birth_place": "Dornbirn",
+  "father_id": "I101928",
+  "mother_id": "I101931"
+ },
+ "I102047": {
+  "id": "I102047",
+  "name": "Anna (Martis) HEINZLE",
+  "birth_date": "10.07.1684",
+  "birth_place": "Fallenberg, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I102086",
+  "mother_id": "I102088"
+ },
+ "I102224": {
+  "id": "I102224",
+  "name": "Josef (Johanns) THURNHER",
+  "birth_date": "19.01.1688",
+  "birth_place": "",
+  "father_id": "I215140",
+  "mother_id": "I215142"
+ },
+ "I102226": {
+  "id": "I102226",
+  "name": "Magdalena DANNER",
+  "birth_date": "um 1693",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I137106": {
+  "id": "I137106",
+  "name": "Martin (Konrads) FEURSTEIN",
+  "birth_date": "31.08.1666",
+  "birth_place": "",
+  "father_id": "I145077",
+  "mother_id": "I145080"
+ },
+ "I137103": {
+  "id": "I137103",
+  "name": "Anna (Christians) DÜNSER",
+  "birth_date": "15.11.1673",
+  "birth_place": "",
+  "father_id": "I136869",
+  "mother_id": "I136872"
+ },
+ "I103702": {
+  "id": "I103702",
+  "name": "Martin (Johanns) ALBRICH",
+  "birth_date": "25.10.1663",
+  "birth_place": "Niederdorf, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I103684",
+  "mother_id": "I103685"
+ },
+ "I103705": {
+  "id": "I103705",
+  "name": "Anna RÜMMELE",
+  "birth_date": "um 1670",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103844": {
+  "id": "I103844",
+  "name": "Johann (Felixus) ALBRICH",
+  "birth_date": "24.10.1671",
+  "birth_place": "Oberdorf, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I103248",
+  "mother_id": "I103251"
+ },
+ "I103847": {
+  "id": "I103847",
+  "name": "Katharina (Michls) WEHINGER",
+  "birth_date": "03.07.1677",
+  "birth_place": "",
+  "father_id": "I104288",
+  "mother_id": "I104290"
+ },
+ "I104788": {
+  "id": "I104788",
+  "name": "Ignaz (Michels) KECKLE",
+  "birth_date": "30.07.1673",
+  "birth_place": "",
+  "father_id": "I200201",
+  "mother_id": "I200202"
+ },
+ "I104790": {
+  "id": "I104790",
+  "name": "Maria KECKLE",
+  "birth_date": "um 1673",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I133762": {
+  "id": "I133762",
+  "name": "Sebastian (Georgs) SCHWENDINGER",
+  "birth_date": "05.04.1674",
+  "birth_place": "",
+  "father_id": "I180940",
+  "mother_id": "I180937"
+ },
+ "I133764": {
+  "id": "I133764",
+  "name": "Katharina (Martins) KAUFMANN",
+  "birth_date": "25.04.1682",
+  "birth_place": "",
+  "father_id": "I104236",
+  "mother_id": "I104238"
+ },
+ "I257666": {
+  "id": "I257666",
+  "name": "Marx (Michls) SPIEGEL",
+  "birth_date": "17.04.1694",
+  "birth_place": "",
+  "father_id": "I279541",
+  "mother_id": "I121089"
+ },
+ "I257663": {
+  "id": "I257663",
+  "name": "Maria RUSCH",
+  "birth_date": "14.11.1687",
+  "birth_place": "",
+  "father_id": "I109611",
+  "mother_id": "I109613"
+ },
+ "I103792": {
+  "id": "I103792",
+  "name": "Anna (Johanns) ALBRICH",
+  "birth_date": "14.08.1669",
+  "birth_place": "",
+  "father_id": "I103786",
+  "mother_id": "I103787"
+ },
+ "I150548": {
+  "id": "I150548",
+  "name": "Martin FUSSENEGGER",
+  "birth_date": "16.10.1680",
+  "birth_place": "",
+  "father_id": "I122138",
+  "mother_id": "I122140"
+ },
+ "I150551": {
+  "id": "I150551",
+  "name": "Agatha KLOCKER",
+  "birth_date": "04.02.1688",
+  "birth_place": "",
+  "father_id": "I182847",
+  "mother_id": "I182849"
+ },
+ "I224781": {
+  "id": "I224781",
+  "name": "Georg (Jakobs) MÄSER",
+  "birth_date": "09.04.1657",
+  "birth_place": "",
+  "father_id": "I125474",
+  "mother_id": "I125476"
+ },
+ "I224784": {
+  "id": "I224784",
+  "name": "Anna (Lorenzus) RÜF",
+  "birth_date": "11.07.1657",
+  "birth_place": "",
+  "father_id": "I160033",
+  "mother_id": "I225065"
+ },
+ "I103857": {
+  "id": "I103857",
+  "name": "Thomas (Martins) HEFEL",
+  "birth_date": "15.12.1657",
+  "birth_place": "Dornbirn",
+  "father_id": "I137237",
+  "mother_id": "I137239"
+ },
+ "I103854": {
+  "id": "I103854",
+  "name": "Maria (Felixs) ALBRICH",
+  "birth_date": "28.10.1674",
+  "birth_place": "Oberdorf, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I103248",
+  "mother_id": "I103251"
+ },
+ "I132164": {
+  "id": "I132164",
+  "name": "Martin (Georgs) DREXEL",
+  "birth_date": "14.10.1667",
+  "birth_place": "",
+  "father_id": "I133536",
+  "mother_id": "I133539"
+ },
+ "I132103": {
+  "id": "I132103",
+  "name": "Anna (Michels) WEHINGER",
+  "birth_date": "24.08.1669",
+  "birth_place": "",
+  "father_id": "I104288",
+  "mother_id": "I104290"
+ },
+ "I113158": {
+  "id": "I113158",
+  "name": "Konrad (Felixs) SALZMANN",
+  "birth_date": "17.09.1696",
+  "birth_place": "",
+  "father_id": "I261169",
+  "mother_id": "I261172"
+ },
+ "I113160": {
+  "id": "I113160",
+  "name": "Anna Maria PFUND",
+  "birth_date": "um 1700",
+  "birth_place": "unbekannt",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I208992": {
+  "id": "I208992",
+  "name": "Katharina (Michls) SOHM",
+  "birth_date": "09.02.1669",
+  "birth_place": "",
+  "father_id": "I208032",
+  "mother_id": "I209143"
+ },
+ "I195865": {
+  "id": "I195865",
+  "name": "Kaspar (Johanns) KAUFMANN",
+  "birth_date": "22.05.1675",
+  "birth_place": "",
+  "father_id": "I195853",
+  "mother_id": "I195854"
+ },
+ "I195868": {
+  "id": "I195868",
+  "name": "Maria (Martins) SOHM",
+  "birth_date": "21.12.1668",
+  "birth_place": "",
+  "father_id": "I196085",
+  "mother_id": "I196087"
+ },
+ "I236003": {
+  "id": "I236003",
+  "name": "Johannes (Martins) RUSCH",
+  "birth_date": "um 1650",
+  "birth_place": "",
+  "father_id": "I257443",
+  "mother_id": "I257445"
+ },
+ "I236000": {
+  "id": "I236000",
+  "name": "Christina NATTERER",
+  "birth_date": "24.07.1680",
+  "birth_place": "",
+  "father_id": "I167637",
+  "mother_id": "I167634"
+ },
+ "I226001": {
+  "id": "I226001",
+  "name": "Peter Paul (Georgs) WINSAUER",
+  "birth_date": "29.06.1687",
+  "birth_place": "",
+  "father_id": "I208921",
+  "mother_id": "I302467"
+ },
+ "I226003": {
+  "id": "I226003",
+  "name": "Agatha (Georgs) WIPPER",
+  "birth_date": "26.01.1697",
+  "birth_place": "",
+  "father_id": "I136916",
+  "mother_id": "I302580"
+ },
+ "I102196": {
+  "id": "I102196",
+  "name": "Jakob (Georgs) WINSAUER",
+  "birth_date": "08.07.1674",
+  "birth_place": "",
+  "father_id": "I208921",
+  "mother_id": "I208918"
+ },
+ "I102198": {
+  "id": "I102198",
+  "name": "Anna (Adams) EHRHART",
+  "birth_date": "21.04.1676",
+  "birth_place": "",
+  "father_id": "I140261",
+  "mother_id": "I140264"
+ },
+ "I109282": {
+  "id": "I109282",
+  "name": "Michael (Johanns) MÄTZLER",
+  "birth_date": "24.08.1688",
+  "birth_place": "",
+  "father_id": "I113047",
+  "mother_id": "I113049"
+ },
+ "I109279": {
+  "id": "I109279",
+  "name": "Maria (Michls) BILDSTEIN",
+  "birth_date": "22.04.1696",
+  "birth_place": "Haselstauder Berg, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I108945",
+  "mother_id": "I108948"
+ },
+ "I126708": {
+  "id": "I126708",
+  "name": "Martin (Andreas) MÄSER",
+  "birth_date": "28.10.1640",
+  "birth_place": "",
+  "father_id": "I224689",
+  "mother_id": "I224692"
+ },
+ "I126710": {
+  "id": "I126710",
+  "name": "Anna ROHNER",
+  "birth_date": "um 1642",
+  "birth_place": "",
+  "father_id": "I108822",
+  "mother_id": "I108819"
+ },
+ "I182110": {
+  "id": "I182110",
+  "name": "Jakob (Marts) MÄTZLER",
+  "birth_date": "um 1644",
+  "birth_place": "",
+  "father_id": "I108862",
+  "mother_id": "I231292"
+ },
+ "I182112": {
+  "id": "I182112",
+  "name": "Magdalena (Andreisus) WEHINGER",
+  "birth_date": "um 1644",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I268442": {
+  "id": "I268442",
+  "name": "Mathias (Georgs) SCHWENDINGER",
+  "birth_date": "um 1640",
+  "birth_place": "",
+  "father_id": "I268396",
+  "mother_id": "I268399"
+ },
+ "I268445": {
+  "id": "I268445",
+  "name": "Maria KLIEN",
+  "birth_date": "um 1640",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I150660": {
+  "id": "I150660",
+  "name": "Martin (Thisus) RÜMMELE",
+  "birth_date": "um 1648",
+  "birth_place": "",
+  "father_id": "I121207",
+  "mother_id": "I121209"
+ },
+ "I150662": {
+  "id": "I150662",
+  "name": "Agatha KLOCKER",
+  "birth_date": "um 1648",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I102034": {
+  "id": "I102034",
+  "name": "Christian RÜNZLER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I102036": {
+  "id": "I102036",
+  "name": "Maria SOHM",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103995": {
+  "id": "I103995",
+  "name": "Georg (Kristas) DÜNSER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": "I136812",
+  "mother_id": "I136815"
+ },
+ "I103991": {
+  "id": "I103991",
+  "name": "Katharina FEURSTEIN",
+  "birth_date": "um 1630",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I141644": {
+  "id": "I141644",
+  "name": "Georg EILER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I141645": {
+  "id": "I141645",
+  "name": "Maria BÄCHTER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I196085": {
+  "id": "I196085",
+  "name": "Martin (Konrads) SOHM",
+  "birth_date": "um 1642",
+  "birth_place": "",
+  "father_id": "I265657",
+  "mother_id": "I265659"
+ },
+ "I196087": {
+  "id": "I196087",
+  "name": "Agatha (Fridlis) SCHMIDINGER",
+  "birth_date": "um 1642",
+  "birth_place": "",
+  "father_id": "I265431",
+  "mother_id": "I265434"
+ },
+ "I220217": {
+  "id": "I220217",
+  "name": "Barbara (Lorenzs) SCHUTZER",
+  "birth_date": "um 1642",
+  "birth_place": "",
+  "father_id": "I255996",
+  "mother_id": "I255998"
+ },
+ "I201764": {
+  "id": "I201764",
+  "name": "Adam (Klosus) KLOCKER",
+  "birth_date": "26.01.1640",
+  "birth_place": "",
+  "father_id": "I125419",
+  "mother_id": "I201700"
+ },
+ "I201767": {
+  "id": "I201767",
+  "name": "Margaretha (Johanns) WEHINGER",
+  "birth_date": "um 1648",
+  "birth_place": "",
+  "father_id": "I202052",
+  "mother_id": "I202054"
+ },
+ "I103834": {
+  "id": "I103834",
+  "name": "Martin (Georgs) KECKLE",
+  "birth_date": "um 1612",
+  "birth_place": "",
+  "father_id": "I200083",
+  "mother_id": "I200086"
+ },
+ "I103836": {
+  "id": "I103836",
+  "name": "Barbara KOHLER",
+  "birth_date": "um 1618",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I108756": {
+  "id": "I108756",
+  "name": "Michael (Johanns) HUBER",
+  "birth_date": "um 1644",
+  "birth_place": "",
+  "father_id": "I180583",
+  "mother_id": "I180586"
+ },
+ "I108753": {
+  "id": "I108753",
+  "name": "Ursula (Martins) BAUMGARTNER",
+  "birth_date": "um 1639",
+  "birth_place": "",
+  "father_id": "I108737",
+  "mother_id": "I108738"
+ },
+ "I208929": {
+  "id": "I208929",
+  "name": "Johann (Johanns) MOOSBRUGGER",
+  "birth_date": "um 1639",
+  "birth_place": "",
+  "father_id": "I234131",
+  "mother_id": "I234132"
+ },
+ "I208926": {
+  "id": "I208926",
+  "name": "Agatha (Georgs) KOHLER",
+  "birth_date": "um 1637",
+  "birth_place": "",
+  "father_id": "I208912",
+  "mother_id": "I208915"
+ },
+ "I167865": {
+  "id": "I167865",
+  "name": "Johann Georg ROTH",
+  "birth_date": "um 1649",
+  "birth_place": "",
+  "father_id": "I103940",
+  "mother_id": "I103942"
+ },
+ "I167862": {
+  "id": "I167862",
+  "name": "Anna (Kaspars) HERBURGER",
+  "birth_date": "01.07.1653",
+  "birth_place": "",
+  "father_id": "I167810",
+  "mother_id": "I167813"
+ },
+ "I122060": {
+  "id": "I122060",
+  "name": "Jakob (Georgs) RUSCH",
+  "birth_date": "um 1620",
+  "birth_place": "",
+  "father_id": "I114723",
+  "mother_id": "I114725"
+ },
+ "I122062": {
+  "id": "I122062",
+  "name": "Anna (Johanns) HUBER",
+  "birth_date": "um 1622",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I144892": {
+  "id": "I144892",
+  "name": "Jakob (Hansus) KLOCKER",
+  "birth_date": "um 1633",
+  "birth_place": "",
+  "father_id": "I109115",
+  "mother_id": "I109117"
+ },
+ "I144889": {
+  "id": "I144889",
+  "name": "Maria (Johanns) FEURSTEIN",
+  "birth_date": "um 1633",
+  "birth_place": "",
+  "father_id": "I103239",
+  "mother_id": "I124678"
+ },
+ "I119384": {
+  "id": "I119384",
+  "name": "Klemens (Sebastians) REIN",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": "I103215",
+  "mother_id": "I103212"
+ },
+ "I119387": {
+  "id": "I119387",
+  "name": "Anna RUSCH",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I109261": {
+  "id": "I109261",
+  "name": "Maria HUBER",
+  "birth_date": "um 1635",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I160476": {
+  "id": "I160476",
+  "name": "Bartholomä ZUMTOBEL",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": "I307723",
+  "mother_id": "I307725"
+ },
+ "I174058": {
+  "id": "I174058",
+  "name": "Anna (Kaspars) WEHINGER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": "I307730",
+  "mother_id": "I307732"
+ },
+ "I144924": {
+  "id": "I144924",
+  "name": "Georg WEHINGER",
+  "birth_date": "18.09.1624",
+  "birth_place": "",
+  "father_id": "I237635",
+  "mother_id": "I243709"
+ },
+ "I167807": {
+  "id": "I167807",
+  "name": "Barbara HELBOCK",
+  "birth_date": "20.03.1625",
+  "birth_place": "Feldkirch, Vorarlberg, Österreich",
+  "father_id": "I167822",
+  "mother_id": "I167824"
+ },
+ "I171463": {
+  "id": "I171463",
+  "name": "Georg (Heinrichs) HILBE",
+  "birth_date": "um 1611",
+  "birth_place": "",
+  "father_id": "I171440",
+  "mother_id": "I171442"
+ },
+ "I171468": {
+  "id": "I171468",
+  "name": "Anna DIEM",
+  "birth_date": "um 1620",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I157214": {
+  "id": "I157214",
+  "name": "Johannes GMEINDER",
+  "birth_date": "um 1621",
+  "birth_place": "",
+  "father_id": "I157208",
+  "mother_id": "I157209"
+ },
+ "I157217": {
+  "id": "I157217",
+  "name": "Maria DIEM",
+  "birth_date": "um 1621",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I157329": {
+  "id": "I157329",
+  "name": "Michael ROHNER",
+  "birth_date": "um 1635",
+  "birth_place": "",
+  "father_id": "I108822",
+  "mother_id": "I108819"
+ },
+ "I157331": {
+  "id": "I157331",
+  "name": "Katharina WEHINGER",
+  "birth_date": "um 1635",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103239": {
+  "id": "I103239",
+  "name": "Johann (Hans) FEURSTEIN",
+  "birth_date": "um 1605",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103236": {
+  "id": "I103236",
+  "name": "Katharina (Georgs) ALBRICH",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": "I103192",
+  "mother_id": "I103197"
+ },
+ "I108750": {
+  "id": "I108750",
+  "name": "Michael (Georgs) RUSCH",
+  "birth_date": "um 1630",
+  "birth_place": "",
+  "father_id": "I114723",
+  "mother_id": "I114725"
+ },
+ "I108747": {
+  "id": "I108747",
+  "name": "Anna (Martins) BAUMGARTNER",
+  "birth_date": "um 1636",
+  "birth_place": "",
+  "father_id": "I108737",
+  "mother_id": "I108738"
+ },
+ "I212464": {
+  "id": "I212464",
+  "name": "Georg LEHNER",
+  "birth_date": "um 1620",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I212465": {
+  "id": "I212465",
+  "name": "Katharina ZOPPEL",
+  "birth_date": "um 1620",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I260868": {
+  "id": "I260868",
+  "name": "Ulrich (Ammann Konrads) SALZMANN",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": "I237015",
+  "mother_id": "I237017"
+ },
+ "I260871": {
+  "id": "I260871",
+  "name": "Anna GILM",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I171543": {
+  "id": "I171543",
+  "name": "Johann (Marxus) HILBE",
+  "birth_date": "um 1635",
+  "birth_place": "",
+  "father_id": "I157273",
+  "mother_id": "I157275"
+ },
+ "I171548": {
+  "id": "I171548",
+  "name": "Magdalena BRÜZ (BREUß )",
+  "birth_date": "um 1635",
+  "birth_place": "unbekannt",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I171780": {
+  "id": "I171780",
+  "name": "Matheus (Ulrichs) ROTH",
+  "birth_date": "um 1643",
+  "birth_place": "",
+  "father_id": "I103940",
+  "mother_id": "I103942"
+ },
+ "I171782": {
+  "id": "I171782",
+  "name": "Ursula SOHM",
+  "birth_date": "um 1645",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I112749": {
+  "id": "I112749",
+  "name": "Thomas (Gallis) BOBLETER",
+  "birth_date": "um 1605",
+  "birth_place": "",
+  "father_id": "I112742",
+  "mother_id": null
+ },
+ "I112751": {
+  "id": "I112751",
+  "name": "Anna (Peters) MÖTZ",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I292833": {
+  "id": "I292833",
+  "name": "Peter Hannibal (Peters) VONRIED",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": "I292827",
+  "mother_id": "I292828"
+ },
+ "I292836": {
+  "id": "I292836",
+  "name": "Katharina HUBER",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167839": {
+  "id": "I167839",
+  "name": "Thomas RHOMBERG",
+  "birth_date": "um 1642",
+  "birth_place": "",
+  "father_id": "I173852",
+  "mother_id": "I173855"
+ },
+ "I167836": {
+  "id": "I167836",
+  "name": "Anna (Zachers) HERBURGER",
+  "birth_date": "um 1641",
+  "birth_place": "",
+  "father_id": "I167802",
+  "mother_id": "I167807"
+ },
+ "I237449": {
+  "id": "I237449",
+  "name": "Thomas (Jakobs) ÖLZ",
+  "birth_date": "um 1609",
+  "birth_place": "",
+  "father_id": "I156684",
+  "mother_id": "I156686"
+ },
+ "I237452": {
+  "id": "I237452",
+  "name": "Anna SALZMANN",
+  "birth_date": "um 1609",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I173852": {
+  "id": "I173852",
+  "name": "Ulrich (Thomas) RHOMBERG",
+  "birth_date": "1616",
+  "birth_place": "",
+  "father_id": "I173806",
+  "mother_id": "I173809"
+ },
+ "I173855": {
+  "id": "I173855",
+  "name": "Barbara (Martis) SALZMANN",
+  "birth_date": "um 1620",
+  "birth_place": "",
+  "father_id": "I173870",
+  "mother_id": "I173872"
+ },
+ "I173898": {
+  "id": "I173898",
+  "name": "Lorenz (Andreios) WEHINGER",
+  "birth_date": "11.10.1619",
+  "birth_place": "",
+  "father_id": "I237635",
+  "mother_id": "I243709"
+ },
+ "I174098": {
+  "id": "I174098",
+  "name": "Maria Katharina WINDER",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I180611": {
+  "id": "I180611",
+  "name": "Martin (Lorenzus) HUBER",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": "I125718",
+  "mother_id": "I180554"
+ },
+ "I180616": {
+  "id": "I180616",
+  "name": "Agatha BÜCHELE",
+  "birth_date": "um 1640",
+  "birth_place": "Hard, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I125982": {
+  "id": "I125982",
+  "name": "Konrad (Johanns) LUGER",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": "I173783",
+  "mother_id": "I173780"
+ },
+ "I125984": {
+  "id": "I125984",
+  "name": "Katharina NATTERER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I201820": {
+  "id": "I201820",
+  "name": "Martin (Michls) KLOCKER",
+  "birth_date": "14.09.1640",
+  "birth_place": "Watzenegg, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I180604",
+  "mother_id": "I180601"
+ },
+ "I201823": {
+  "id": "I201823",
+  "name": "Maria SALZMANN",
+  "birth_date": "um 1650",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I202298": {
+  "id": "I202298",
+  "name": "Bartholomä (Konrads) SOHM",
+  "birth_date": "um 1645",
+  "birth_place": "",
+  "father_id": "I265657",
+  "mother_id": "I265659"
+ },
+ "I202300": {
+  "id": "I202300",
+  "name": "Magdalena BEREUTER",
+  "birth_date": "um 1645",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I102086": {
+  "id": "I102086",
+  "name": "Martin (Ulrichs) HEINZLE",
+  "birth_date": "06.11.1652",
+  "birth_place": "",
+  "father_id": "I167648",
+  "mother_id": "I167649"
+ },
+ "I102088": {
+  "id": "I102088",
+  "name": "Elisabetha (Jakobs) MÄSER",
+  "birth_date": "09.05.1652",
+  "birth_place": "",
+  "father_id": "I125474",
+  "mother_id": "I125476"
+ },
+ "I195966": {
+  "id": "I195966",
+  "name": "Jakob (der jung) RÜF",
+  "birth_date": "um 1620",
+  "birth_place": "",
+  "father_id": "I251831",
+  "mother_id": "I251834"
+ },
+ "I195968": {
+  "id": "I195968",
+  "name": "Anna THURNHER",
+  "birth_date": "um 1626",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I145498": {
+  "id": "I145498",
+  "name": "Michael (Lorenzus) HUBER",
+  "birth_date": "um 1620",
+  "birth_place": "",
+  "father_id": "I125718",
+  "mother_id": "I180554"
+ },
+ "I145500": {
+  "id": "I145500",
+  "name": "Maria RHOMBERG",
+  "birth_date": "um 1626",
+  "birth_place": "",
+  "father_id": "I173806",
+  "mother_id": "I173811"
+ },
+ "I266980": {
+  "id": "I266980",
+  "name": "Thomas (Ulrichs) THURNHER",
+  "birth_date": "um 1650",
+  "birth_place": "",
+  "father_id": "I214796",
+  "mother_id": "I214798"
+ },
+ "I266977": {
+  "id": "I266977",
+  "name": "Anna (Martins) SCHMITTER",
+  "birth_date": "19.07.1651",
+  "birth_place": "",
+  "father_id": "I122078",
+  "mother_id": "I122080"
+ },
+ "I174897": {
+  "id": "I174897",
+  "name": "Johannes (Johanns) SALZMANN",
+  "birth_date": "um 1645",
+  "birth_place": "",
+  "father_id": "I260931",
+  "mother_id": "I260932"
+ },
+ "I174899": {
+  "id": "I174899",
+  "name": "Anna (Georgs) RÜNZLER",
+  "birth_date": "14.12.1652",
+  "birth_place": "",
+  "father_id": "I177777",
+  "mother_id": "I255974"
+ },
+ "I122280": {
+  "id": "I122280",
+  "name": "Johann WÄLLPE",
+  "birth_date": "um 1650",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I122282": {
+  "id": "I122282",
+  "name": "Anna Maria FUSSENEGGER",
+  "birth_date": "um 1650",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I180693": {
+  "id": "I180693",
+  "name": "Martin (Johanns) HUBER",
+  "birth_date": "um 1640",
+  "birth_place": "",
+  "father_id": "I180583",
+  "mother_id": "I180586"
+ },
+ "I180696": {
+  "id": "I180696",
+  "name": "Dorothea (Kaspers) ULMER",
+  "birth_date": "13.11.1640",
+  "birth_place": "",
+  "father_id": "I181358",
+  "mother_id": "I181360"
+ },
+ "I112744": {
+  "id": "I112744",
+  "name": "Johannes (Gallis) BOBLETER",
+  "birth_date": "um 1607",
+  "birth_place": "",
+  "father_id": "I112742",
+  "mother_id": null
+ },
+ "I112746": {
+  "id": "I112746",
+  "name": "Maria RÜMMELE",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I145019": {
+  "id": "I145019",
+  "name": "Leonhart (Hansus) RÜMMELE",
+  "birth_date": "um 1595",
+  "birth_place": "",
+  "father_id": "I254181",
+  "mother_id": "I254182"
+ },
+ "I145021": {
+  "id": "I145021",
+  "name": "Anna HEFEL",
+  "birth_date": "um 1595",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I276220": {
+  "id": "I276220",
+  "name": "Gallus (Bartlis) SOHM",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": "I276210",
+  "mother_id": "I276211"
+ },
+ "I276225": {
+  "id": "I276225",
+  "name": "Agatha SCHMITTER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I276518": {
+  "id": "I276518",
+  "name": "Georg SPIEGEL",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I276520": {
+  "id": "I276520",
+  "name": "Anna FRY (FREI)",
+  "birth_date": "um 1625 in",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I139922": {
+  "id": "I139922",
+  "name": "Andreas (Sebastians) SCHWENDINGER",
+  "birth_date": "09.11.1640",
+  "birth_place": "",
+  "father_id": "I201737",
+  "mother_id": "I201734"
+ },
+ "I139924": {
+  "id": "I139924",
+  "name": "Magdalena ALBINI",
+  "birth_date": "um 1640",
+  "birth_place": "",
+  "father_id": "I200274",
+  "mother_id": "I200276"
+ },
+ "I214370": {
+  "id": "I214370",
+  "name": "Ulrich ROTH",
+  "birth_date": "um 1642",
+  "birth_place": "",
+  "father_id": "I103940",
+  "mother_id": "I103942"
+ },
+ "I111211": {
+  "id": "I111211",
+  "name": "Katharina (Konrads) LUGER",
+  "birth_date": "22.03.1656",
+  "birth_place": "",
+  "father_id": "I125982",
+  "mother_id": "I214281"
+ },
+ "I200750": {
+  "id": "I200750",
+  "name": "Adam KOHLER",
+  "birth_date": "um 1622",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I200747": {
+  "id": "I200747",
+  "name": "Elisabetha (Georgs) KLEINBROD",
+  "birth_date": "um 1630",
+  "birth_place": "",
+  "father_id": "I200733",
+  "mother_id": "I200734"
+ },
+ "I101928": {
+  "id": "I101928",
+  "name": "Bartholomä (Johanns) ALBINGER",
+  "birth_date": "um 1645",
+  "birth_place": "",
+  "father_id": "I101910",
+  "mother_id": "I101911"
+ },
+ "I101931": {
+  "id": "I101931",
+  "name": "Katharina (Christians) RÜNZLER",
+  "birth_date": "20.06.1640",
+  "birth_place": "",
+  "father_id": "I102034",
+  "mother_id": "I102036"
+ },
+ "I215140": {
+  "id": "I215140",
+  "name": "Johann (Kristians) THURNHER",
+  "birth_date": "09.05.1655",
+  "birth_place": "",
+  "father_id": "I126408",
+  "mother_id": "I126410"
+ },
+ "I215142": {
+  "id": "I215142",
+  "name": "Anna (Ulrichs) SALZMANN",
+  "birth_date": "21.06.1654",
+  "birth_place": "",
+  "father_id": "I260868",
+  "mother_id": "I260871"
+ },
+ "I145077": {
+  "id": "I145077",
+  "name": "Konrad FEURSTEIN",
+  "birth_date": "12.02.1639",
+  "birth_place": "",
+  "father_id": "I144804",
+  "mother_id": "I144805"
+ },
+ "I145080": {
+  "id": "I145080",
+  "name": "Katharina (Johanns) SALZMANN",
+  "birth_date": "um 1642",
+  "birth_place": "",
+  "father_id": "I145083",
+  "mother_id": "I145085"
+ },
+ "I136869": {
+  "id": "I136869",
+  "name": "Christian DÜNSER",
+  "birth_date": "um 1630",
+  "birth_place": "",
+  "father_id": "I136859",
+  "mother_id": "I136860"
+ },
+ "I136872": {
+  "id": "I136872",
+  "name": "Agatha (Martis) KAUFMANN",
+  "birth_date": "um 1648",
+  "birth_place": "",
+  "father_id": "I137073",
+  "mother_id": "I137075"
+ },
+ "I103684": {
+  "id": "I103684",
+  "name": "Johann (Nägeli) ALBRICH",
+  "birth_date": "um 1630",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103685": {
+  "id": "I103685",
+  "name": "Anna SALZMANN",
+  "birth_date": "um 1630",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103248": {
+  "id": "I103248",
+  "name": "Felix ALBRICH",
+  "birth_date": "um 1640",
+  "birth_place": "",
+  "father_id": "I103242",
+  "mother_id": "I103243"
+ },
+ "I103251": {
+  "id": "I103251",
+  "name": "Anna (Martins) KECKLE",
+  "birth_date": "um 1650",
+  "birth_place": "",
+  "father_id": "I103834",
+  "mother_id": "I103836"
+ },
+ "I104288": {
+  "id": "I104288",
+  "name": "Michael (Andreis) WEHINGER",
+  "birth_date": "um 1645",
+  "birth_place": "",
+  "father_id": "I237635",
+  "mother_id": "I237637"
+ },
+ "I104290": {
+  "id": "I104290",
+  "name": "Katharina (Ulrichs) SALZMANN",
+  "birth_date": "um 1644",
+  "birth_place": "",
+  "father_id": "I260868",
+  "mother_id": "I260871"
+ },
+ "I200201": {
+  "id": "I200201",
+  "name": "Michael KECKLE",
+  "birth_date": "um 1630",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I200202": {
+  "id": "I200202",
+  "name": "Magdalena (Zachers) LECHER",
+  "birth_date": "um 1638",
+  "birth_place": "",
+  "father_id": "I200205",
+  "mother_id": "I200207"
+ },
+ "I180940": {
+  "id": "I180940",
+  "name": "Georg (Michels) SCHWENDINGER",
+  "birth_date": "um 1645",
+  "birth_place": "",
+  "father_id": "I109167",
+  "mother_id": "I109169"
+ },
+ "I180937": {
+  "id": "I180937",
+  "name": "Margaretha (Baschas) HUBER",
+  "birth_date": "1646",
+  "birth_place": "",
+  "father_id": "I145161",
+  "mother_id": "I145163"
+ },
+ "I104236": {
+  "id": "I104236",
+  "name": "Martin (Georgs) KAUFMANN",
+  "birth_date": "um 1650",
+  "birth_place": "",
+  "father_id": "I195728",
+  "mother_id": "I195731"
+ },
+ "I104238": {
+  "id": "I104238",
+  "name": "Maria (Sebastians) NATTERER",
+  "birth_date": "02.02.1654",
+  "birth_place": "",
+  "father_id": "I195894",
+  "mother_id": "I195896"
+ },
+ "I279541": {
+  "id": "I279541",
+  "name": "Michael (Georgs) SPIEGEL",
+  "birth_date": "16.09.1656",
+  "birth_place": "",
+  "father_id": "I276518",
+  "mother_id": "I276520"
+ },
+ "I121089": {
+  "id": "I121089",
+  "name": "Katharina (Johanns) BRÖLL",
+  "birth_date": "07.11.1655",
+  "birth_place": "Dornbirn",
+  "father_id": "I121079",
+  "mother_id": "I121080"
+ },
+ "I103786": {
+  "id": "I103786",
+  "name": "Johannes (Hans) (Weiß) ALBRICH",
+  "birth_date": "um 1640",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103787": {
+  "id": "I103787",
+  "name": "Anna DIEM",
+  "birth_date": "um 1640",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I122138": {
+  "id": "I122138",
+  "name": "Georg FUSSENEGGER",
+  "birth_date": "um 1643",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I122140": {
+  "id": "I122140",
+  "name": "Katharina WEHINGER",
+  "birth_date": "um 1643",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I182847": {
+  "id": "I182847",
+  "name": "Rochus (Michls) KLOCKER",
+  "birth_date": "08.06.1651",
+  "birth_place": "",
+  "father_id": "I180604",
+  "mother_id": "I180601"
+ },
+ "I182849": {
+  "id": "I182849",
+  "name": "Eva (Christians) THURNHER",
+  "birth_date": "22.02.1658",
+  "birth_place": "",
+  "father_id": "I126408",
+  "mother_id": "I126410"
+ },
+ "I125474": {
+  "id": "I125474",
+  "name": "Jakob (Kristas) MÄSER",
+  "birth_date": "um 1621",
+  "birth_place": "",
+  "father_id": "I114096",
+  "mother_id": "I114098"
+ },
+ "I125476": {
+  "id": "I125476",
+  "name": "Eva HUBER",
+  "birth_date": "um 1621",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I160033": {
+  "id": "I160033",
+  "name": "Lorenz RÜF",
+  "birth_date": "um 1630",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I225065": {
+  "id": "I225065",
+  "name": "Agatha SCHMID",
+  "birth_date": "um 1630",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I137237": {
+  "id": "I137237",
+  "name": "Martin HEFEL",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I137239": {
+  "id": "I137239",
+  "name": "Anna HUBER",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I133536": {
+  "id": "I133536",
+  "name": "Georg (Jakobs) DREXEL",
+  "birth_date": "um 1626",
+  "birth_place": "",
+  "father_id": "I123576",
+  "mother_id": "I123578"
+ },
+ "I133539": {
+  "id": "I133539",
+  "name": "Anna HÄMMERLE",
+  "birth_date": "um 1630",
+  "birth_place": "",
+  "father_id": "I133548",
+  "mother_id": "I133550"
+ },
+ "I261169": {
+  "id": "I261169",
+  "name": "Felix (Konrads) SALZMANN",
+  "birth_date": "25.08.1667",
+  "birth_place": "",
+  "father_id": "I260971",
+  "mother_id": "I260974"
+ },
+ "I261172": {
+  "id": "I261172",
+  "name": "Maria GREUTER",
+  "birth_date": "um 1670",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I208032": {
+  "id": "I208032",
+  "name": "Michael (Konrads) SOHM",
+  "birth_date": "um 1646",
+  "birth_place": "",
+  "father_id": "I265657",
+  "mother_id": "I265659"
+ },
+ "I209143": {
+  "id": "I209143",
+  "name": "Magdalena DÜNSER",
+  "birth_date": "um 1645",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I195853": {
+  "id": "I195853",
+  "name": "Johann (Georgs) KAUFMANN",
+  "birth_date": "um 1642",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I195854": {
+  "id": "I195854",
+  "name": "Christine (Kaspas) LECHER",
+  "birth_date": "um 1645",
+  "birth_place": "",
+  "father_id": "I109137",
+  "mother_id": "I109139"
+ },
+ "I257443": {
+  "id": "I257443",
+  "name": "Martin (Andres) RUSCH",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I257445": {
+  "id": "I257445",
+  "name": "Barbara (Hansus) HUBER",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167637": {
+  "id": "I167637",
+  "name": "Martin (Georgs) NATTERER",
+  "birth_date": "um 1641",
+  "birth_place": "",
+  "father_id": "I235882",
+  "mother_id": "I235883"
+ },
+ "I167634": {
+  "id": "I167634",
+  "name": "Maria (Georgs) HEINZLE",
+  "birth_date": "27.01.1641",
+  "birth_place": "",
+  "father_id": "I167622",
+  "mother_id": "I167623"
+ },
+ "I208921": {
+  "id": "I208921",
+  "name": "Georg (Ulrichs) WINSAUER",
+  "birth_date": "um 1640",
+  "birth_place": "",
+  "father_id": "I136891",
+  "mother_id": "I136893"
+ },
+ "I302467": {
+  "id": "I302467",
+  "name": "Katharina HÖFLE",
+  "birth_date": "um 1650",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I136916": {
+  "id": "I136916",
+  "name": "Georg (Baschas) WIPPER",
+  "birth_date": "um 1660",
+  "birth_place": "",
+  "father_id": "I193439",
+  "mother_id": "I193441"
+ },
+ "I302580": {
+  "id": "I302580",
+  "name": "Anna SOHM",
+  "birth_date": "um 1670",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I208918": {
+  "id": "I208918",
+  "name": "Margaretha (Thisus) KOHLER",
+  "birth_date": "um 1640",
+  "birth_place": "",
+  "father_id": "I208906",
+  "mother_id": "I208907"
+ },
+ "I140261": {
+  "id": "I140261",
+  "name": "Adam (Urbans) EHRHART",
+  "birth_date": "um 1630",
+  "birth_place": "",
+  "father_id": "I140255",
+  "mother_id": "I140256"
+ },
+ "I140264": {
+  "id": "I140264",
+  "name": "Waldburga MATHIS",
+  "birth_date": "um 1628",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I113047": {
+  "id": "I113047",
+  "name": "Johann MÄTZLER",
+  "birth_date": "um 1649",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I113049": {
+  "id": "I113049",
+  "name": "Katharina SCHELL",
+  "birth_date": "um 1649",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I108945": {
+  "id": "I108945",
+  "name": "Michael BILDSTEIN",
+  "birth_date": "04.01.1656",
+  "birth_place": "Fallenberg, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I108923",
+  "mother_id": "I108924"
+ },
+ "I108948": {
+  "id": "I108948",
+  "name": "Barbara RÜMMELE",
+  "birth_date": "15.03.1667",
+  "birth_place": "",
+  "father_id": "I109259",
+  "mother_id": "I109261"
+ },
+ "I224689": {
+  "id": "I224689",
+  "name": "Andreas (Georgs) MÄSER",
+  "birth_date": "um 1592",
+  "birth_place": "",
+  "father_id": "I195722",
+  "mother_id": "I195724"
+ },
+ "I224692": {
+  "id": "I224692",
+  "name": "Katharina KAPLAN",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I108822": {
+  "id": "I108822",
+  "name": "Georg ROHNER",
+  "birth_date": "um 1605",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I108819": {
+  "id": "I108819",
+  "name": "Elisabetha (Jakobs) BERTSCH",
+  "birth_date": "um 1605",
+  "birth_place": "",
+  "father_id": "I108813",
+  "mother_id": "I108814"
+ },
+ "I108862": {
+  "id": "I108862",
+  "name": "Martin MÄTZLER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I231292": {
+  "id": "I231292",
+  "name": "Katharina (Georgs) RUSCH",
+  "birth_date": "um 1620",
+  "birth_place": "",
+  "father_id": "I114723",
+  "mother_id": "I114725"
+ },
+ "I268396": {
+  "id": "I268396",
+  "name": "Georg SCHWENDINGER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": "I214271",
+  "mother_id": "I214269"
+ },
+ "I268399": {
+  "id": "I268399",
+  "name": "Margaretha DORER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I121207": {
+  "id": "I121207",
+  "name": "Mathias RÜMMELE",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": "I254181",
+  "mother_id": "I254182"
+ },
+ "I121209": {
+  "id": "I121209",
+  "name": "Anna WEHINGER",
+  "birth_date": "um 1605",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I136812": {
+  "id": "I136812",
+  "name": "Christian (Michels) DÜNSER",
+  "birth_date": "um 1599",
+  "birth_place": "",
+  "father_id": "I136806",
+  "mother_id": "I136807"
+ },
+ "I136815": {
+  "id": "I136815",
+  "name": "Elisabetha FEURSTEIN",
+  "birth_date": "um 1599",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I265657": {
+  "id": "I265657",
+  "name": "Konrad SOHM",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I265659": {
+  "id": "I265659",
+  "name": "Katharina (Ulrichs) WINSAUER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": "I136891",
+  "mother_id": "I136893"
+ },
+ "I265431": {
+  "id": "I265431",
+  "name": "Fridolin (Michels) SCHMIDINGER",
+  "birth_date": "um 1612",
+  "birth_place": "",
+  "father_id": "I265419",
+  "mother_id": "I265420"
+ },
+ "I265434": {
+  "id": "I265434",
+  "name": "Maria HILBE",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I255996": {
+  "id": "I255996",
+  "name": "Lorenz (Barthlis) SCHUTZER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": "I267645",
+  "mother_id": "I267648"
+ },
+ "I255998": {
+  "id": "I255998",
+  "name": "Maria MÖTZ",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I125419": {
+  "id": "I125419",
+  "name": "Nikolaus KLOCKER",
+  "birth_date": "um 1605",
+  "birth_place": "",
+  "father_id": "I201688",
+  "mother_id": "I201689"
+ },
+ "I201700": {
+  "id": "I201700",
+  "name": "Anna MAYER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I202052": {
+  "id": "I202052",
+  "name": "Johannes WEHINGER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I202054": {
+  "id": "I202054",
+  "name": "Magdalena HUBER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I200083": {
+  "id": "I200083",
+  "name": "Georg (Baschas) KECKLE",
+  "birth_date": "um 1581",
+  "birth_place": "",
+  "father_id": "I200077",
+  "mother_id": "I200078"
+ },
+ "I200086": {
+  "id": "I200086",
+  "name": "N. (VEREHL. KECKLE)",
+  "birth_date": "um 1581",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I180583": {
+  "id": "I180583",
+  "name": "Johannes (Ammans Lorenzus) HUBER",
+  "birth_date": "um 1614",
+  "birth_place": "",
+  "father_id": "I125718",
+  "mother_id": "I180554"
+ },
+ "I180586": {
+  "id": "I180586",
+  "name": "Maria WINDER",
+  "birth_date": "um 1611",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I108737": {
+  "id": "I108737",
+  "name": "Martin BAUMGARTNER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I108738": {
+  "id": "I108738",
+  "name": "Katharina SALZMANN",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I234131": {
+  "id": "I234131",
+  "name": "Johann MOOSBRUGGER",
+  "birth_date": "um 1610",
+  "birth_place": "Bregenzerwald, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I234132": {
+  "id": "I234132",
+  "name": "Maria WILHELM",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I208912": {
+  "id": "I208912",
+  "name": "Georg (Thisus) KOHLER",
+  "birth_date": "um 1602",
+  "birth_place": "",
+  "father_id": "I208906",
+  "mother_id": "I208907"
+ },
+ "I208915": {
+  "id": "I208915",
+  "name": "Anna FEURSTEIN",
+  "birth_date": "um 1602",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103940": {
+  "id": "I103940",
+  "name": "Ulrich ROTH",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103942": {
+  "id": "I103942",
+  "name": "Gertrud HUBER",
+  "birth_date": "um 1613",
+  "birth_place": "",
+  "father_id": "I125718",
+  "mother_id": "I180554"
+ },
+ "I167810": {
+  "id": "I167810",
+  "name": "Kaspar (Martins) HERBURGER",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": "I167756",
+  "mother_id": "I167759"
+ },
+ "I167813": {
+  "id": "I167813",
+  "name": "Katharina WEHINGER",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I114723": {
+  "id": "I114723",
+  "name": "Georg (Bartlis) RUSCH",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I114725": {
+  "id": "I114725",
+  "name": "Agatha (Amman Konrads) SALZMANN",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": "I237015",
+  "mother_id": "I237017"
+ },
+ "I109115": {
+  "id": "I109115",
+  "name": "Johann KLOCKER",
+  "birth_date": "um 1607",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I109117": {
+  "id": "I109117",
+  "name": "Maria RÜDISSER",
+  "birth_date": "um 1607",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I124678": {
+  "id": "I124678",
+  "name": "Verena (Kristians) SCHMID",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": "I144883",
+  "mother_id": "I144885"
+ },
+ "I103215": {
+  "id": "I103215",
+  "name": "Sebastian (Klemenses) REIN",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": "I119348",
+  "mother_id": "I119351"
+ },
+ "I103212": {
+  "id": "I103212",
+  "name": "Margaretha (Adams) ALBRICH",
+  "birth_date": "um 1605",
+  "birth_place": "",
+  "father_id": "I103186",
+  "mother_id": "I103189"
+ },
+ "I307723": {
+  "id": "I307723",
+  "name": "Bartholomäus ZUMTOBEL",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I307725": {
+  "id": "I307725",
+  "name": "Verena HINDELANG",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I307730": {
+  "id": "I307730",
+  "name": "Kaspar (Springer) WEHINGER",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I307732": {
+  "id": "I307732",
+  "name": "Anna (Katharina) WEHINGER",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I237635": {
+  "id": "I237635",
+  "name": "Andreas WEHINGER",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I243709": {
+  "id": "I243709",
+  "name": "Maria (Georgs) HUBER",
+  "birth_date": "um 1585",
+  "birth_place": "",
+  "father_id": "I243700",
+  "mother_id": "I243697"
+ },
+ "I167822": {
+  "id": "I167822",
+  "name": "Johann (Hans) HELBOCK",
+  "birth_date": "um 1580",
+  "birth_place": "Egg, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167824": {
+  "id": "I167824",
+  "name": "Anna MÄSER",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": "I173800",
+  "mother_id": "I224626"
+ },
+ "I171440": {
+  "id": "I171440",
+  "name": "Heinrich (Johanns) HILBE",
+  "birth_date": "um 1581",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I171442": {
+  "id": "I171442",
+  "name": "Maria (Georgs) ALBRICH",
+  "birth_date": "um 1581",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I157208": {
+  "id": "I157208",
+  "name": "Michael GMEINDER",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I157209": {
+  "id": "I157209",
+  "name": "N. (Simons) BILDSTEIN",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103192": {
+  "id": "I103192",
+  "name": "Georg ALBRICH",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": "I103159",
+  "mother_id": "I103161"
+ },
+ "I103197": {
+  "id": "I103197",
+  "name": "Katharina ILG",
+  "birth_date": "um 1595",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I237015": {
+  "id": "I237015",
+  "name": "Konrad (Georgs) SALZMANN",
+  "birth_date": "um 1575",
+  "birth_place": "",
+  "father_id": "I260811",
+  "mother_id": "I260814"
+ },
+ "I237017": {
+  "id": "I237017",
+  "name": "Magdalena ALBRICH",
+  "birth_date": "um 1570",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I157273": {
+  "id": "I157273",
+  "name": "Marx (Michels) HILBE",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": "I171435",
+  "mother_id": "I171437"
+ },
+ "I157275": {
+  "id": "I157275",
+  "name": "Agatha (Adams) KLOCKER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": "I171525",
+  "mother_id": "I171527"
+ },
+ "I112742": {
+  "id": "I112742",
+  "name": "Gallus (Bernharts) BOBLETER",
+  "birth_date": "um 1570",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I292827": {
+  "id": "I292827",
+  "name": "Peter VONRIED",
+  "birth_date": "um 1595",
+  "birth_place": "Graubünden, Schweiz",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I292828": {
+  "id": "I292828",
+  "name": "Susanna ECHINGER",
+  "birth_date": "um 1595",
+  "birth_place": "Oberbalzheim, Balzheim, Baden-Württemberg, Deutschland",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167802": {
+  "id": "I167802",
+  "name": "Zacharias (Martins) HERBURGER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": "I167756",
+  "mother_id": "I167759"
+ },
+ "I156684": {
+  "id": "I156684",
+  "name": "Jakob ÖLZ",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": "I237423",
+  "mother_id": "I237424"
+ },
+ "I156686": {
+  "id": "I156686",
+  "name": "N. (VEREHL. ÖLZ)",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I173806": {
+  "id": "I173806",
+  "name": "Thomas (Ulrichs) RHOMBERG",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": "I124644",
+  "mother_id": "I124646"
+ },
+ "I173809": {
+  "id": "I173809",
+  "name": "Anna ALBRICH",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": "I173846",
+  "mother_id": "I173848"
+ },
+ "I173870": {
+  "id": "I173870",
+  "name": "Martin (Felix) SALZMANN",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": "I260881",
+  "mother_id": "I260883"
+ },
+ "I173872": {
+  "id": "I173872",
+  "name": "Katharina (Simons) HUBER",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": "I180491",
+  "mother_id": "I180496"
+ },
+ "I125718": {
+  "id": "I125718",
+  "name": "Lorenz HUBER",
+  "birth_date": "um 1581",
+  "birth_place": "",
+  "father_id": "I180491",
+  "mother_id": "I180494"
+ },
+ "I180554": {
+  "id": "I180554",
+  "name": "Regula (Niklausus) HOHLSTEIN (HOLLENSTEIN)",
+  "birth_date": "um 1590",
+  "birth_place": "Lustenau, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I173783": {
+  "id": "I173783",
+  "name": "Johann (Hansus) LUGER",
+  "birth_date": "um 1560",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I173780": {
+  "id": "I173780",
+  "name": "Klara (Bartles) RHOMBERG",
+  "birth_date": "um 1557",
+  "birth_place": "",
+  "father_id": "I173765",
+  "mother_id": "I173764"
+ },
+ "I180604": {
+  "id": "I180604",
+  "name": "Michael KLOCKER",
+  "birth_date": "um 1609",
+  "birth_place": "",
+  "father_id": "I171525",
+  "mother_id": "I171527"
+ },
+ "I180601": {
+  "id": "I180601",
+  "name": "Maria HUBER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": "I125718",
+  "mother_id": "I180554"
+ },
+ "I167648": {
+  "id": "I167648",
+  "name": "Ulrich HEINZLE",
+  "birth_date": "um 1620",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167649": {
+  "id": "I167649",
+  "name": "Anna HAMMERER (HÄMMERLE )",
+  "birth_date": "um 1628",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I251831": {
+  "id": "I251831",
+  "name": "Georg RÜF",
+  "birth_date": "um 1560",
+  "birth_place": "Mühlebach, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I125708",
+  "mother_id": "I125705"
+ },
+ "I251834": {
+  "id": "I251834",
+  "name": "Katharina ALBRICH",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I173811": {
+  "id": "I173811",
+  "name": "Agatha (Lorenzes) HUBER",
+  "birth_date": "um 1605",
+  "birth_place": "",
+  "father_id": "I125718",
+  "mother_id": "I125715"
+ },
+ "I214796": {
+  "id": "I214796",
+  "name": "Ulrich (Martins) THURNHER",
+  "birth_date": "um 1605",
+  "birth_place": "",
+  "father_id": "I284445",
+  "mother_id": "I284446"
+ },
+ "I214798": {
+  "id": "I214798",
+  "name": "Magdalena FRANZ",
+  "birth_date": "um 1605",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I122078": {
+  "id": "I122078",
+  "name": "Johann Martin (Johanns) SCHMITTER",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": "I158335",
+  "mother_id": "I158337"
+ },
+ "I122080": {
+  "id": "I122080",
+  "name": "Maria (Georgs) LUGER",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": "I174023",
+  "mother_id": "I174025"
+ },
+ "I260931": {
+  "id": "I260931",
+  "name": "Johann Konrad SALZMANN",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I260932": {
+  "id": "I260932",
+  "name": "Katharina (Martins) SCHMITTER",
+  "birth_date": "um 1620",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I177777": {
+  "id": "I177777",
+  "name": "Georg RÜNZLER",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I255974": {
+  "id": "I255974",
+  "name": "Anna BRENNER",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I181358": {
+  "id": "I181358",
+  "name": "Kaspar (Balthusus Krämers) ULMER",
+  "birth_date": "um 1613",
+  "birth_place": "",
+  "father_id": "I290154",
+  "mother_id": "I290155"
+ },
+ "I181360": {
+  "id": "I181360",
+  "name": "Katharina ALBRICH",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I254181": {
+  "id": "I254181",
+  "name": "Johann RÜMMELE",
+  "birth_date": "um 1565",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I254182": {
+  "id": "I254182",
+  "name": "Anna SCHMIDINGER",
+  "birth_date": "um 1565",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I276210": {
+  "id": "I276210",
+  "name": "Bartholomä SOHM",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I276211": {
+  "id": "I276211",
+  "name": "Katharina RUSCH",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I201737": {
+  "id": "I201737",
+  "name": "Sebastian SCHWENDINGER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I201734": {
+  "id": "I201734",
+  "name": "Anna (Jakobs) KLOCKER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": "I201720",
+  "mother_id": "I201721"
+ },
+ "I200274": {
+  "id": "I200274",
+  "name": "Albinus ALBIN",
+  "birth_date": "um 1615",
+  "birth_place": "Graubünden, Schweiz",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I200276": {
+  "id": "I200276",
+  "name": "Katharina BRAUN (BRUNLIN)",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I214281": {
+  "id": "I214281",
+  "name": "Katharina (Lorenzs) REIN",
+  "birth_date": "um 1621",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I200733": {
+  "id": "I200733",
+  "name": "Georg (Johanns) KLEINBROD",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I200734": {
+  "id": "I200734",
+  "name": "Gertrud GMEINDER",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I101910": {
+  "id": "I101910",
+  "name": "Johannes ALBINGER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I101911": {
+  "id": "I101911",
+  "name": "Maria (Johanns) DIEM",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I126408": {
+  "id": "I126408",
+  "name": "Christian (Martins) THURNHER",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": "I284445",
+  "mother_id": "I284446"
+ },
+ "I126410": {
+  "id": "I126410",
+  "name": "Margaretha FEURSTEIN",
+  "birth_date": "um 1633",
+  "birth_place": "",
+  "father_id": "I144774",
+  "mother_id": "I144777"
+ },
+ "I144804": {
+  "id": "I144804",
+  "name": "Georg FEURSTEIN",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I144805": {
+  "id": "I144805",
+  "name": "Anna KOHLER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I145083": {
+  "id": "I145083",
+  "name": "Johann (Baltusus) SALZMANN",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": "I167848",
+  "mother_id": "I167850"
+ },
+ "I145085": {
+  "id": "I145085",
+  "name": "Magdalena (Martins) SCHMITTER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I136859": {
+  "id": "I136859",
+  "name": "Johann (Johanns) DÜNSER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I136860": {
+  "id": "I136860",
+  "name": "Maria (Kaspas) JUNG",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": "I136863",
+  "mother_id": "I136865"
+ },
+ "I137073": {
+  "id": "I137073",
+  "name": "Martin (Thomas) KAUFMANN",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": "I195712",
+  "mother_id": "I195715"
+ },
+ "I137075": {
+  "id": "I137075",
+  "name": "Anna FECHTING",
+  "birth_date": "um 1620",
+  "birth_place": "unbekannt",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103242": {
+  "id": "I103242",
+  "name": "Johann ALBRICH",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103243": {
+  "id": "I103243",
+  "name": "Salamea GISINGER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I237637": {
+  "id": "I237637",
+  "name": "Katharina HÄMMERLE",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I200205": {
+  "id": "I200205",
+  "name": "Zacharias (Hansus) LECHER",
+  "birth_date": "um 1603",
+  "birth_place": "",
+  "father_id": "I211598",
+  "mother_id": "I211599"
+ },
+ "I200207": {
+  "id": "I200207",
+  "name": "Barbara (Martins) SPIEGEL",
+  "birth_date": "um 1605",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I109167": {
+  "id": "I109167",
+  "name": "Michael SCHWENDINGER",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I109169": {
+  "id": "I109169",
+  "name": "Katharina (Thomas) SALZMANN",
+  "birth_date": "um 1615",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I145161": {
+  "id": "I145161",
+  "name": "Sebastian (Ammas) HUBER",
+  "birth_date": "um 1612",
+  "birth_place": "",
+  "father_id": "I125718",
+  "mother_id": "I125715"
+ },
+ "I145163": {
+  "id": "I145163",
+  "name": "Katharina ILG",
+  "birth_date": "um 1620",
+  "birth_place": "",
+  "father_id": "I180911",
+  "mother_id": "I180913"
+ },
+ "I195728": {
+  "id": "I195728",
+  "name": "Georg (Jakobs) KAUFMANN",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": "I126086",
+  "mother_id": "I126088"
+ },
+ "I195731": {
+  "id": "I195731",
+  "name": "Anna BECHTER",
+  "birth_date": "um 1625",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I195894": {
+  "id": "I195894",
+  "name": "Sebastian (Martins) NATTERER",
+  "birth_date": "um 1620",
+  "birth_place": "",
+  "father_id": "I235820",
+  "mother_id": "I235821"
+ },
+ "I195896": {
+  "id": "I195896",
+  "name": "Margaretha EHRHART",
+  "birth_date": "um 1620",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I121079": {
+  "id": "I121079",
+  "name": "Johannes BRÖLL",
+  "birth_date": "um 1624",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I121080": {
+  "id": "I121080",
+  "name": "Katharina SALZMANN",
+  "birth_date": "um 1624",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I114096": {
+  "id": "I114096",
+  "name": "Christian (Georgs) MÄSER",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": "I195722",
+  "mother_id": "I195724"
+ },
+ "I114098": {
+  "id": "I114098",
+  "name": "Ursula JUNG",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I123576": {
+  "id": "I123576",
+  "name": "Jakob DREXEL",
+  "birth_date": "um 1594",
+  "birth_place": "Hohenems, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I123578": {
+  "id": "I123578",
+  "name": "Eva STEURER",
+  "birth_date": "um 1594",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I133548": {
+  "id": "I133548",
+  "name": "Christian (Christa) HÄMMERLE",
+  "birth_date": "um 1595",
+  "birth_place": "",
+  "father_id": "I159946",
+  "mother_id": "I159948"
+ },
+ "I133550": {
+  "id": "I133550",
+  "name": "Barbara DIEM",
+  "birth_date": "um 1595",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I109137": {
+  "id": "I109137",
+  "name": "Kaspar (Johanns) LECHER",
+  "birth_date": "um 1604",
+  "birth_place": "",
+  "father_id": "I211598",
+  "mother_id": "I211599"
+ },
+ "I109139": {
+  "id": "I109139",
+  "name": "Anna (Martins) WEHINGER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I235882": {
+  "id": "I235882",
+  "name": "Georg (Hannsen Sohn) NATTERER",
+  "birth_date": "um 1611",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I235883": {
+  "id": "I235883",
+  "name": "Barbara BOBLETER",
+  "birth_date": "um 1611",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167622": {
+  "id": "I167622",
+  "name": "Georg HEINZLE",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167623": {
+  "id": "I167623",
+  "name": "Katharina MÄSER",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I136891": {
+  "id": "I136891",
+  "name": "Ulrich WINSAUER",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I136893": {
+  "id": "I136893",
+  "name": "Anna SCHWENDINGER",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I193439": {
+  "id": "I193439",
+  "name": "Sebastian WIPPER",
+  "birth_date": "um 1635",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I193441": {
+  "id": "I193441",
+  "name": "Maria HUBER",
+  "birth_date": "um 1635",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I208906": {
+  "id": "I208906",
+  "name": "Mathis KOHLER",
+  "birth_date": "um 1572",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I208907": {
+  "id": "I208907",
+  "name": "Katharina FEURSTEIN",
+  "birth_date": "um 1575",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I140255": {
+  "id": "I140255",
+  "name": "Urban EHRHART",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I140256": {
+  "id": "I140256",
+  "name": "Anna LUGER",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I108923": {
+  "id": "I108923",
+  "name": "Michael BILDSTEIN",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I108924": {
+  "id": "I108924",
+  "name": "Agatha RÜMMELE",
+  "birth_date": "um 1610",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I195722": {
+  "id": "I195722",
+  "name": "Georg (Oswalds) MÄSER",
+  "birth_date": "um 1565",
+  "birth_place": "",
+  "father_id": "I224647",
+  "mother_id": "I224648"
+ },
+ "I195724": {
+  "id": "I195724",
+  "name": "Anna THURNHER",
+  "birth_date": "um 1570",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I108813": {
+  "id": "I108813",
+  "name": "Jakob BERTSCH",
+  "birth_date": "um 1580",
+  "birth_place": "Bregenzerwald, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I108814": {
+  "id": "I108814",
+  "name": "Katharina MOHR",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I214271": {
+  "id": "I214271",
+  "name": "Mathias SCHWENDINGER",
+  "birth_date": "um 1585",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I214269": {
+  "id": "I214269",
+  "name": "Gertrud (Johanns) LUGER",
+  "birth_date": "um 1570",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I136806": {
+  "id": "I136806",
+  "name": "Michel DÜNSER",
+  "birth_date": "um 1569",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I136807": {
+  "id": "I136807",
+  "name": "Agatha GEIGER",
+  "birth_date": "um 1569",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I265419": {
+  "id": "I265419",
+  "name": "Michael SCHMIDINGER",
+  "birth_date": "um 1585",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I265420": {
+  "id": "I265420",
+  "name": "Maria (Bartlis) BILDSTEIN",
+  "birth_date": "um 1585",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I267645": {
+  "id": "I267645",
+  "name": "Barthle (Jakobs) SCHUTZER",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": "I257466",
+  "mother_id": "I257468"
+ },
+ "I267648": {
+  "id": "I267648",
+  "name": "Barbara DIEM",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I201688": {
+  "id": "I201688",
+  "name": "Michael KLOCKER",
+  "birth_date": "um 1565",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I201689": {
+  "id": "I201689",
+  "name": "N. MEUSBURGER",
+  "birth_date": "um 1565",
+  "birth_place": "Bregenzerwald, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I200077": {
+  "id": "I200077",
+  "name": "Sebastian KECKLE",
+  "birth_date": "um 1551",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I200078": {
+  "id": "I200078",
+  "name": "Anna WILHELM",
+  "birth_date": "um 1551",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167756": {
+  "id": "I167756",
+  "name": "Martin (Zachers) HERBURGER",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": "I167750",
+  "mother_id": "I167751"
+ },
+ "I167759": {
+  "id": "I167759",
+  "name": "Ursula (Georgs) KAPPENZIPFEL",
+  "birth_date": "um 1580",
+  "birth_place": "Kennelbach, Vorarlberg, Österreich",
+  "father_id": "I167790",
+  "mother_id": "I167792"
+ },
+ "I144883": {
+  "id": "I144883",
+  "name": "Christian SCHMID",
+  "birth_date": "um 1540",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I144885": {
+  "id": "I144885",
+  "name": "Verena ZOLLER",
+  "birth_date": "um 1540",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I119348": {
+  "id": "I119348",
+  "name": "Klemens (Georgs) REIN",
+  "birth_date": "um 1565",
+  "birth_place": "",
+  "father_id": "I119342",
+  "mother_id": "I119343"
+ },
+ "I119351": {
+  "id": "I119351",
+  "name": "Christina SCHNELL",
+  "birth_date": "um 1570",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103186": {
+  "id": "I103186",
+  "name": "Adam (Peters) ALBRICH",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": "I103159",
+  "mother_id": "I103161"
+ },
+ "I103189": {
+  "id": "I103189",
+  "name": "Elisabetha GRÜBER",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I243700": {
+  "id": "I243700",
+  "name": "Georg HUBER",
+  "birth_date": "um 1554",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I243697": {
+  "id": "I243697",
+  "name": "Gertruda (Georgs) ZOLLER",
+  "birth_date": "um 1555",
+  "birth_place": "",
+  "father_id": "I243687",
+  "mother_id": "I243688"
+ },
+ "I173800": {
+  "id": "I173800",
+  "name": "Martin MÄSER",
+  "birth_date": "um 1540",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I224626": {
+  "id": "I224626",
+  "name": "Maria LUDESCHER",
+  "birth_date": "um 1560",
+  "birth_place": "Rankweil, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103159": {
+  "id": "I103159",
+  "name": "Peter ALBRICH",
+  "birth_date": "um 1550",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I103161": {
+  "id": "I103161",
+  "name": "Ursula LUGER",
+  "birth_date": "um 1550",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I260811": {
+  "id": "I260811",
+  "name": "Georg (Hansus) SALZMANN",
+  "birth_date": "um 1550",
+  "birth_place": "",
+  "father_id": "I260801",
+  "mother_id": "I260802"
+ },
+ "I260814": {
+  "id": "I260814",
+  "name": "Gertrud LUGER",
+  "birth_date": "um 1550",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I171435": {
+  "id": "I171435",
+  "name": "Michael (Johannes) HILBE",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I171437": {
+  "id": "I171437",
+  "name": "Verena RUSCH",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I171525": {
+  "id": "I171525",
+  "name": "Adam (Klosus) KLOCKER",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": "I201688",
+  "mother_id": "I201689"
+ },
+ "I171527": {
+  "id": "I171527",
+  "name": "N. ALBRICH",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I237423": {
+  "id": "I237423",
+  "name": "Thomas ÖLZ",
+  "birth_date": "um 1550",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I237424": {
+  "id": "I237424",
+  "name": "N. (VEREHL. ÖLZ)",
+  "birth_date": "um 1550",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I124644": {
+  "id": "I124644",
+  "name": "Ulrich (Thomas) RHOMBERG",
+  "birth_date": "um 1560",
+  "birth_place": "",
+  "father_id": "I173768",
+  "mother_id": "I173771"
+ },
+ "I124646": {
+  "id": "I124646",
+  "name": "Magdalena (Martins) MÄSER",
+  "birth_date": "um 1565",
+  "birth_place": "",
+  "father_id": "I173800",
+  "mother_id": "I173802"
+ },
+ "I173846": {
+  "id": "I173846",
+  "name": "Mathias ALBRICH",
+  "birth_date": "um 1555",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I173848": {
+  "id": "I173848",
+  "name": "Elisabeth THURNHER",
+  "birth_date": "um 1560",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I260881": {
+  "id": "I260881",
+  "name": "Felix (der Alte) SALZMANN",
+  "birth_date": "um 1565",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I260883": {
+  "id": "I260883",
+  "name": "Katharina ZUMTOBEL",
+  "birth_date": "um 1565",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I180491": {
+  "id": "I180491",
+  "name": "Simon (Hilariuses) HUBER",
+  "birth_date": "um 1551",
+  "birth_place": "",
+  "father_id": "I180485",
+  "mother_id": "I180486"
+ },
+ "I180496": {
+  "id": "I180496",
+  "name": "Agatha (Johanns) LUGER",
+  "birth_date": "um 1555",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I180494": {
+  "id": "I180494",
+  "name": "Magdalena FRANZ",
+  "birth_date": "um 1560",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I173765": {
+  "id": "I173765",
+  "name": "Bartholomäus RHOMBERG (RAUBERG RABERG)",
+  "birth_date": "um 1525",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I173764": {
+  "id": "I173764",
+  "name": "Barbara WILLER",
+  "birth_date": "um 1530",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I125708": {
+  "id": "I125708",
+  "name": "Lorenz RÜF",
+  "birth_date": "um 1535",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I125705": {
+  "id": "I125705",
+  "name": "Anna DIEM",
+  "birth_date": "um 1535",
+  "birth_place": "Oberdorf, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I125676",
+  "mother_id": "I125678"
+ },
+ "I125715": {
+  "id": "I125715",
+  "name": "Anna (Felixus) DIEM",
+  "birth_date": "um 1590",
+  "birth_place": "Oberdorf, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I125685",
+  "mother_id": "I125688"
+ },
+ "I284445": {
+  "id": "I284445",
+  "name": "Martin THURNHER",
+  "birth_date": "um 1570",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I284446": {
+  "id": "I284446",
+  "name": "Magdalena (Lena) FRANZ",
+  "birth_date": "um 1562",
+  "birth_place": "Oberdorf, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I321003",
+  "mother_id": "I321004"
+ },
+ "I158335": {
+  "id": "I158335",
+  "name": "Johann (Martins) SCHMITTER",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": "I191265",
+  "mother_id": "I191267"
+ },
+ "I158337": {
+  "id": "I158337",
+  "name": "Anna NATTERER",
+  "birth_date": "um 1600",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I174023": {
+  "id": "I174023",
+  "name": "Georg LUGER",
+  "birth_date": "um 1604",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I174025": {
+  "id": "I174025",
+  "name": "Gertrud (Bartlis) SCHMID",
+  "birth_date": "um 1604",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I290154": {
+  "id": "I290154",
+  "name": "Balthasar ULMER",
+  "birth_date": "um 1585",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I290155": {
+  "id": "I290155",
+  "name": "Dorothea BRENNER",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I201720": {
+  "id": "I201720",
+  "name": "Jakob KLOCKER",
+  "birth_date": "um 1578",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I201721": {
+  "id": "I201721",
+  "name": "N. KLOCKER",
+  "birth_date": "um 1578",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I144774": {
+  "id": "I144774",
+  "name": "Andreas (Bartles) FEURSTEIN",
+  "birth_date": "um 1603",
+  "birth_place": "",
+  "father_id": "I144760",
+  "mother_id": "I144761"
+ },
+ "I144777": {
+  "id": "I144777",
+  "name": "Maria HÄMMERLE",
+  "birth_date": "um 1603",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167848": {
+  "id": "I167848",
+  "name": "Baltus (Josus) SALZMANN",
+  "birth_date": "um 1585",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167850": {
+  "id": "I167850",
+  "name": "Katharina (Bernharts) SCHUTZER",
+  "birth_date": "um 1585",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I136863": {
+  "id": "I136863",
+  "name": "Kaspar JUNG",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I136865": {
+  "id": "I136865",
+  "name": "Anna SALZMANN",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I195712": {
+  "id": "I195712",
+  "name": "Thomas (Sebastians) KAUFMANN",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": "I195690",
+  "mother_id": "I195693"
+ },
+ "I195715": {
+  "id": "I195715",
+  "name": "N. N. (VEREHL. KAUFMANN)",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I211598": {
+  "id": "I211598",
+  "name": "Johannes LECHER",
+  "birth_date": "um 1573",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I211599": {
+  "id": "I211599",
+  "name": "N. N. (VEREHL. LECHER)",
+  "birth_date": "um 1575",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I180911": {
+  "id": "I180911",
+  "name": "Andreas ILG",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I180913": {
+  "id": "I180913",
+  "name": "N. (Michels) KECKLE",
+  "birth_date": "um 1590",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I126086": {
+  "id": "I126086",
+  "name": "Jakob (Sebastins) KAUFMANN",
+  "birth_date": "um 1591",
+  "birth_place": "",
+  "father_id": "I195690",
+  "mother_id": "I195693"
+ },
+ "I126088": {
+  "id": "I126088",
+  "name": "N. (Georgs) MÄSER",
+  "birth_date": "um 1595",
+  "birth_place": "",
+  "father_id": "I195722",
+  "mother_id": "I195724"
+ },
+ "I235820": {
+  "id": "I235820",
+  "name": "Martin NATTERER",
+  "birth_date": "um 1579",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I235821": {
+  "id": "I235821",
+  "name": "Anna (Oswalds) JENNING",
+  "birth_date": "um 1579",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I159946": {
+  "id": "I159946",
+  "name": "Hans (der Alt des Gerichts) HÄMMERLE",
+  "birth_date": "um 1570",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I159948": {
+  "id": "I159948",
+  "name": "Anna",
+  "birth_date": "um 1570",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I224647": {
+  "id": "I224647",
+  "name": "Oswald MÄSER",
+  "birth_date": "um 1540",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I224648": {
+  "id": "I224648",
+  "name": "Margaretha (Glozin) HUBER",
+  "birth_date": "um 1540",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I257466": {
+  "id": "I257466",
+  "name": "Jakob SCHUTZER",
+  "birth_date": "um 1565",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I257468": {
+  "id": "I257468",
+  "name": "Anna RÜMMELE",
+  "birth_date": "um 1565",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167750": {
+  "id": "I167750",
+  "name": "Zacharias HERBURGER",
+  "birth_date": "um 1555",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167751": {
+  "id": "I167751",
+  "name": "Anna LUGER",
+  "birth_date": "um 1555",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167790": {
+  "id": "I167790",
+  "name": "Georg KAPPENZIPFEL",
+  "birth_date": "um 1555",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I167792": {
+  "id": "I167792",
+  "name": "N. BAUMANN",
+  "birth_date": "um 1555",
+  "birth_place": "",
+  "father_id": "I340623",
+  "mother_id": "I340624"
+ },
+ "I119342": {
+  "id": "I119342",
+  "name": "Georg REIN",
+  "birth_date": "um 1540",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I119343": {
+  "id": "I119343",
+  "name": "Margaretha WEHINGER",
+  "birth_date": "um 1540",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I243687": {
+  "id": "I243687",
+  "name": "Georg WILLER GENANNT ZOLLER",
+  "birth_date": "um 1524",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I243688": {
+  "id": "I243688",
+  "name": "Agatha EBERLE",
+  "birth_date": "um 1524",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I260801": {
+  "id": "I260801",
+  "name": "Hans SALZMANN",
+  "birth_date": "um 1530",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I260802": {
+  "id": "I260802",
+  "name": "Agatha WILHELM",
+  "birth_date": "um 1530",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I173768": {
+  "id": "I173768",
+  "name": "Thomas RHOMBERG",
+  "birth_date": "um 1505",
+  "birth_place": "",
+  "father_id": "I173742",
+  "mother_id": "I173745"
+ },
+ "I173771": {
+  "id": "I173771",
+  "name": "Katharina DIETRICH",
+  "birth_date": "um 1510",
+  "birth_place": "Lauterach, Vorarlberg, Österreich",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I173802": {
+  "id": "I173802",
+  "name": "Verena (Ulrichs) EBERLE",
+  "birth_date": "um 1540",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I180485": {
+  "id": "I180485",
+  "name": "Hilarius HUBER",
+  "birth_date": "um 1521",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I180486": {
+  "id": "I180486",
+  "name": "Verena BOHS",
+  "birth_date": "um 1521",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I125676": {
+  "id": "I125676",
+  "name": "Felix (der Alt) DIEM",
+  "birth_date": "um 1510",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I125678": {
+  "id": "I125678",
+  "name": "N. N. (VEREHL. DIEM)",
+  "birth_date": "um 1510",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I125685": {
+  "id": "I125685",
+  "name": "Felix (Felixus) DIEM",
+  "birth_date": "um 1570",
+  "birth_place": "Oberdorf, Dornbirn, Vorarlberg, Österreich",
+  "father_id": "I125675",
+  "mother_id": "I125680"
+ },
+ "I125688": {
+  "id": "I125688",
+  "name": "Anna (Barbara) (Martins) LUGER",
+  "birth_date": "um 1575",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I321003": {
+  "id": "I321003",
+  "name": "Georg FRANZ (FRANNZ)",
+  "birth_date": "um 1520",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I321004": {
+  "id": "I321004",
+  "name": "N. N. (VEREHL. FRANZ)",
+  "birth_date": "um 1520",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I191265": {
+  "id": "I191265",
+  "name": "Martin SCHMITTER",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I191267": {
+  "id": "I191267",
+  "name": "Anna MÖTZ",
+  "birth_date": "um 1580",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I144760": {
+  "id": "I144760",
+  "name": "Bartholomä FEURSTEIN",
+  "birth_date": "um 1570",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I144761": {
+  "id": "I144761",
+  "name": "N. (VEREHL. FEURSTEIN)",
+  "birth_date": "um 1570",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ },
+ "I195690": {
+  "id": "I195690",
+  "name": "Sebastian (Thomas) KAUFMANN",
+  "birth_date": "um 1560",
+  "birth_place": "",
+  "father_id": "I195684",
+  "mother_id": "I195685"
+ },
+ "I195693": {
+  "id": "I195693",
+  "name": "Katharina SIEBER",
+  "birth_date": "um 1560",
+  "birth_place": "",
+  "father_id": null,
+  "mother_id": null
+ }
+}

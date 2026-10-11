@@ -1,0 +1,666 @@
+id,gen,name,birth_place,category,country
+I230391,1,Franz Josef MÄSER,Dornbirn,Dornbirn,Österreich
+I230394,1,Hildegard FEURSTEIN,Dornbirn,Dornbirn,Österreich
+I157792,2,Jakob MÄSER,"Markt, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I157789,2,Maria Anna GMEINDER,Dornbirn,Dornbirn,Österreich
+I149079,2,Benedikt FEURSTEIN,Dornbirn,Dornbirn,Österreich
+I149082,2,Maria Rosa KOCH,"Hagenwil, Amriswil, Thurgau, Schweiz",Ausland,Schweiz
+I187987,3,Johann Jakob (Wieners) MÄSER,Dornbirn,Dornbirn,Österreich
+I176591,3,Katharina FRENER,"Rieden, Bregenz, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I157555,3,Johann GMEINDER,,unbekannt,unbekannt
+I157558,3,Maria Magdalena ÖLZ,Dornbirn,Dornbirn,Österreich
+I148229,3,August FEURSTEIN,Dornbirn,Dornbirn,Österreich
+I148232,3,Agatha ROHNER,Dornbirn,Dornbirn,Österreich
+I206348,3,Ignaz KOCH,"Tannheim, Tirol, Österreich",Österreich (anderes Bundesland),Österreich
+I206349,3,Maria Elisabetha HAAG,Hagenweil,Ort ohne Länderangabe,unbekannt
+I226859,4,Franz Josef (Josef Antons) MÄSER,Dornbirn,Dornbirn,Österreich
+I218283,4,Maria Franziska (Jakobs) RUSCH,Dornbirn,Dornbirn,Österreich
+I157433,4,Josef Anton (Johanns) GMEINDER,,unbekannt,unbekannt
+I157436,4,Magdalena (Johanns) LEHNER,,unbekannt,unbekannt
+I157751,4,Josef Anton (Peters) ÖLZ,"Haselstauden, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I157753,4,Anna Maria (Josefs) LUGER,Dornbirn,Dornbirn,Österreich
+I147267,4,Josef Reinhard FEURSTEIN,Dornbirn,Dornbirn,Österreich
+I147270,4,Maria Anna HILBE,Dornbirn,Dornbirn,Österreich
+I149071,4,Kaspar ROHNER,Dornbirn,Dornbirn,Österreich
+I149073,4,Katharina DIETRICH,"Lauterach, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I175957,5,Josef Anton (Augustins) MÄSER,,unbekannt,unbekannt
+I175959,5,Maria Agatha (Josefs) SOHM,,unbekannt,unbekannt
+I192068,5,Johann Jakob (Sebastians) RUSCH,,unbekannt,unbekannt
+I227679,5,Maria Anna SCHUGG,"Montafon, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I157381,5,Johann (Martins) GMEINDER,,unbekannt,unbekannt
+I157384,5,Katharina FETZ,unbekannt,unbekannt,unbekannt
+I113245,5,Johann (Johanns) LEHNER,,unbekannt,unbekannt
+I113242,5,Maria Agatha (Josefs) BOBLETER,,unbekannt,unbekannt
+I238027,5,Johann Peter (Antons) ÖLZ,,unbekannt,unbekannt
+I238030,5,Maria Anna (Gabriels) RÜF,,unbekannt,unbekannt
+I185425,5,Josef Alois (Josefs) LUGER,,unbekannt,unbekannt
+I183750,5,Katharina (Georgs) SCHWENDINGER,,unbekannt,unbekannt
+I105547,5,Josef Anton FEURSTEIN,,unbekannt,unbekannt
+I105544,5,Katharina (Lorenzs) ALBRICH,"Oberdorf, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I134125,5,Josef Ignaz (Peters) HILBE,,unbekannt,unbekannt
+I134122,5,Anna Maria (Johanns) DREXEL,,unbekannt,unbekannt
+I102565,5,Kaspar (Kaspas) ROHNER,,unbekannt,unbekannt
+I102567,5,Anna Maria (Peters) RUSCH,,unbekannt,unbekannt
+I225619,6,Augustin (Martins) MÄSER,,unbekannt,unbekannt
+I225622,6,Anna Maria (Antons) RÜNZLER,,unbekannt,unbekannt
+I200396,6,Josef (Johanns) SOHM,,unbekannt,unbekannt
+I200393,6,Maria (Michels) KECKLE,,unbekannt,unbekannt
+I257867,6,Sebastian (Jakobs) RUSCH,,unbekannt,unbekannt
+I257870,6,Maria Rosa (Franzus) ZUMTOBEL,,unbekannt,unbekannt
+I157373,6,Martin (Johanns) GMEINDER,,unbekannt,unbekannt
+I157376,6,Maria BRÜSTLE,"Alberschwende, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I212613,6,Johannes (Johanns) LEHNER,,unbekannt,unbekannt
+I212616,6,Agatha (Michels) SALZMANN,,unbekannt,unbekannt
+I113035,6,Franz Josef (Michels) BOBLETER,,unbekannt,unbekannt
+I113038,6,Elisabetha (Bartlis) ÖLZ,,unbekannt,unbekannt
+I202894,6,Anton (Michels) ÖLZ,Dornbirn,Dornbirn,Österreich
+I202891,6,Katharina (Peters) KLOCKER,,unbekannt,unbekannt
+I128377,6,Gabriel (Georgs) RÜF,,unbekannt,unbekannt
+I128379,6,Maria Martha (Johanns) THURNHER,,unbekannt,unbekannt
+I215246,6,Franz Josef (Johanns) LUGER,,unbekannt,unbekannt
+I215249,6,Anna Maria (Martins) SOHM,,unbekannt,unbekannt
+I102239,6,Georg (Josefs) SCHWENDINGER,,unbekannt,unbekannt
+I102236,6,Maria Magdalena (Georgs) ALBINGER,Dornbirn,Dornbirn,Österreich
+I115723,6,Martin (Kristians) FEURSTEIN,,unbekannt,unbekannt
+I145782,6,Katharina (Antons) RICK,,unbekannt,unbekannt
+I104804,6,Lorenz (Felix) ALBRICH,"Oberdorf, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I104807,6,Katharina (Johanns) SCHWENDINGER,,unbekannt,unbekannt
+I161137,6,Peter (Josefs) HILBE,,unbekannt,unbekannt
+I160810,6,Maria Magdalena (Jakobs) MÄSER,,unbekannt,unbekannt
+I133794,6,Johannes (Georgs) DREXEL,,unbekannt,unbekannt
+I133801,6,Anna Maria (Johanns) THURNHER,,unbekannt,unbekannt
+I106422,6,Kaspar ROHNER,"Gabelier, Schwarzach, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I106424,6,Anna Maria (Martins) KOHLER,,unbekannt,unbekannt
+I106444,6,Johann Peter (Josefs) RUSCH,,unbekannt,unbekannt
+I106446,6,Anna Maria (Sebastians) WINSAUER,,unbekannt,unbekannt
+I225218,7,Martin (Johanns) MÄSER,,unbekannt,unbekannt
+I225221,7,Anastasia (Augustins) SCHWENDINGER,,unbekannt,unbekannt
+I102256,7,Anton (Michaels) RÜNZLER,,unbekannt,unbekannt
+I102258,7,Zäzilia (Jakobs) EILER,,unbekannt,unbekannt
+I202431,7,Johann (Klosus) SOHM,,unbekannt,unbekannt
+I202428,7,Agatha (Johanns) KLOCKER,,unbekannt,unbekannt
+I184398,7,Michael (Bartlis) KECKLE,,unbekannt,unbekannt
+I184400,7,Agatha (Christians) MOOSBRUGGER,,unbekannt,unbekannt
+I119740,7,Jakob (Michels) RUSCH,,unbekannt,unbekannt
+I119737,7,Anna REIN,,unbekannt,unbekannt
+I171845,7,Franz Plazidus (Bartlis) ZUMTOBEL,,unbekannt,unbekannt
+I171842,7,Maria (Heinrichs) HILBE,,unbekannt,unbekannt
+I145352,7,Johann (Martins) GMEINDER,,unbekannt,unbekannt
+I145349,7,Katharina (Martins) FEURSTEIN,,unbekannt,unbekannt
+I127031,7,Johann (Andreiusus) LEHNER,,unbekannt,unbekannt
+I127033,7,Maria MOOSBRUGGER,Dornbirn,Dornbirn,Österreich
+I171795,7,Michael (Konrads) SALZMANN,,unbekannt,unbekannt
+I171792,7,Magdalena (Georgs) HILBE,,unbekannt,unbekannt
+I112897,7,Michael (Georgs) BOBLETER,,unbekannt,unbekannt
+I112900,7,Katharina (Peters) VONRIED,,unbekannt,unbekannt
+I113232,7,Bartholomä (Martis) ÖLZ,,unbekannt,unbekannt
+I111174,7,Katharina (Christians) WEHINGER,,unbekannt,unbekannt
+I214771,7,Michael (Martis) ÖLZ,Dornbirn,Dornbirn,Österreich
+I214768,7,Magdalena (Georgs) LUGER,,unbekannt,unbekannt
+I177857,7,Peter (Michls) KLOCKER,,unbekannt,unbekannt
+I177839,7,Magdalena (Johanns) SOHM,,unbekannt,unbekannt
+I181954,7,Georg (Kaspas) RÜF,,unbekannt,unbekannt
+I181949,7,Katharina (Thomas) HUBER,,unbekannt,unbekannt
+I157340,7,Johann THURNHER,,unbekannt,unbekannt
+I252432,7,Anna Katharina (Johanns) WÄLLPE,,unbekannt,unbekannt
+I214750,7,Johann (Georgs) LUGER,,unbekannt,unbekannt
+I214753,7,Maria (Wendels) RÜMMELE,,unbekannt,unbekannt
+I215770,7,Martin (Jakobs) SOHM,,unbekannt,unbekannt
+I215772,7,Anna PREUß (BREUß),,unbekannt,unbekannt
+I185041,7,Josef (Ignzs) SCHWENDINGER,,unbekannt,unbekannt
+I185043,7,Anna (Lukasus) KOHLER,,unbekannt,unbekannt
+I102104,7,Georg (Ulrichs) ALBINGER,Dornbirn,Dornbirn,Österreich
+I102107,7,Maria (Josefs) THURNHER,,unbekannt,unbekannt
+I103749,7,Christian (Martes) FEURSTEIN,"Bürgle, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I103746,7,Katharina (Johanns) ALBRICH,Dornbirn,Dornbirn,Österreich
+I146337,7,Anton RICK,,unbekannt,unbekannt
+I146339,7,Barbara KECKLE,,unbekannt,unbekannt
+I104308,7,Felix (Johanns) ALBRICH,"Oberdorf, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I104311,7,Barbara KECKLE,,unbekannt,unbekannt
+I105530,7,Johann (Sebastians) SCHWENDINGER,,unbekannt,unbekannt
+I105532,7,Katharina (Marcus) SPIEGEL,,unbekannt,unbekannt
+I143363,7,Josef (Heinrichs) HILBE,,unbekannt,unbekannt
+I143365,7,Anna Maria (Martins) FUSSENEGGER,,unbekannt,unbekannt
+I161133,7,Jakob (Georgs) MÄSER,,unbekannt,unbekannt
+I161135,7,Anna (Thomasus) HEFEL,Dornbirn,Dornbirn,Österreich
+I133640,7,Georg (Martis) DREXEL,,unbekannt,unbekannt
+I133645,7,Margaretha (Sebastians) SCHWENDINGER,,unbekannt,unbekannt
+I134086,7,Johannes (Josefs) THURNHER,,unbekannt,unbekannt
+I134088,7,Maria Sabina (Konrads) SALZMANN,,unbekannt,unbekannt
+I251216,7,Johann ROHNER,"Bildstein, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I251218,7,Barbara GASSER,"Bildstein, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I196104,7,Martin KOHLER,,unbekannt,unbekannt
+I196101,7,Agatha (Kaspas) KAUFMANN,,unbekannt,unbekannt
+I200541,7,Josef (Johanns) RUSCH,,unbekannt,unbekannt
+I200543,7,Anna Maria (Peters) WINSAUER,,unbekannt,unbekannt
+I231614,7,Sebastian (Jakobs) WINSAUER,,unbekannt,unbekannt
+I231611,7,Agatha (Michels) MÄTZLER,,unbekannt,unbekannt
+I224867,8,Johannes (Martins) MÄSER,,unbekannt,unbekannt
+I224870,8,Katharina MÄTZLER,,unbekannt,unbekannt
+I225605,8,Augustin (Thisus) SCHWENDINGER,,unbekannt,unbekannt
+I225607,8,Agatha (Martins) RÜMMELE,,unbekannt,unbekannt
+I136934,8,Michael (Kristins) RÜNZLER,,unbekannt,unbekannt
+I136931,8,Agatha (Georgs) DÜNSER,,unbekannt,unbekannt
+I141656,8,Jakob (Georgs) EILER,,unbekannt,unbekannt
+I141661,8,Anna RÜMMELE,,unbekannt,unbekannt
+I136940,8,Nikolaus (Martins) SOHM,,unbekannt,unbekannt
+I137532,8,Katharina (Michls) RÜNZLER,,unbekannt,unbekannt
+I113059,8,Johann (Adams) KLOCKER,,unbekannt,unbekannt
+I113061,8,Barbara KLOCKER,,unbekannt,unbekannt
+I114995,8,Bartle (Martins) KECKLE,,unbekannt,unbekannt
+I114787,8,Maria (Michls) HUBER,,unbekannt,unbekannt
+I109701,8,Christian (Johanns) MOOSBRUGGER,,unbekannt,unbekannt
+I200385,8,Barbara (Georgs) ROTH,,unbekannt,unbekannt
+I109611,8,Michael (Jakobs) RUSCH,,unbekannt,unbekannt
+I109613,8,Anna (Jakobs) KLOCKER,,unbekannt,unbekannt
+I119484,8,Sebastian (Klemenses) REIN,,unbekannt,unbekannt
+I119487,8,Katharina (Wendelins) RÜMMELE,,unbekannt,unbekannt
+I160651,8,Bartholomä (Bartles) ZUMTOBEL,,unbekannt,unbekannt
+I294043,8,Maria Rosa (Ammann Georgs) WEHINGER,,unbekannt,unbekannt
+I103795,8,Heinrich (Georgs/Beck) HILBE,,unbekannt,unbekannt
+I171513,8,Anna SALZMANN,,unbekannt,unbekannt
+I146038,8,Martin GMEINDER,,unbekannt,unbekannt
+I146040,8,Maria (Michels) ROHNER,,unbekannt,unbekannt
+I104450,8,Martin (Jos) FEURSTEIN,,unbekannt,unbekannt
+I104452,8,Maria (Michels) RUSCH,,unbekannt,unbekannt
+I212474,8,Andrä (Georgs) LEHNER,,unbekannt,unbekannt
+I212477,8,Agatha MÄTZLER,,unbekannt,unbekannt
+I212583,8,Thomas MOOSBRUGGER,,unbekannt,unbekannt
+I212585,8,Margaretha (Michls) WEHINGER,,unbekannt,unbekannt
+I260971,8,Konrad (Ulrichs) SALZMANN,,unbekannt,unbekannt
+I260974,8,Maria (Felixus) SALZMANN,,unbekannt,unbekannt
+I171571,8,Georg (Johanns) HILBE,,unbekannt,unbekannt
+I171574,8,Maria (Thisus) ROTH,,unbekannt,unbekannt
+I112779,8,Georg (Thomas) BOBLETER,,unbekannt,unbekannt
+I112782,8,Anna MUXEL,"Bregenzerwald, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I113011,8,Peter (Hannibals) VONRIED,,unbekannt,unbekannt
+I113013,8,Maria Rosa (Thomases) RHOMBERG,,unbekannt,unbekannt
+I173926,8,Martin (Thomas) ÖLZ,,unbekannt,unbekannt
+I173923,8,Agatha (Ulrichs) RHOMBERG,,unbekannt,unbekannt
+I181134,8,Christian WEHINGER,,unbekannt,unbekannt
+I181131,8,Elisabetha (Martins) HUBER,,unbekannt,unbekannt
+I112828,8,Georg (Konrads) LUGER,,unbekannt,unbekannt
+I205857,8,Anna RÜMMELE,,unbekannt,unbekannt
+I115157,8,Michael (Martins) KLOCKER,,unbekannt,unbekannt
+I115159,8,Katharina (Bartlis) SOHM,,unbekannt,unbekannt
+I165035,8,Johann SOHM,,unbekannt,unbekannt
+I165037,8,Regina (Martins) HEINZLE,,unbekannt,unbekannt
+I173941,8,Kaspar RÜF,,unbekannt,unbekannt
+I164104,8,Barbara (Thomas) RHOMBERG,,unbekannt,unbekannt
+I168635,8,Thomas (Michls) HUBER,,unbekannt,unbekannt
+I168637,8,Franziska HAGEN,"Lustenau, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I252298,8,Ulrich (Thomas) THURNHER,,unbekannt,unbekannt
+I252300,8,Martha (Johanns) SALZMANN,,unbekannt,unbekannt
+I181400,8,Johannes (Johannes) WÄLLPE,,unbekannt,unbekannt
+I181397,8,Barbara HUBER,,unbekannt,unbekannt
+I112825,8,Magdalena (Johanns) BOBLETER,,unbekannt,unbekannt
+I109259,8,Wendelin (Leonharts) RÜMMELE,,unbekannt,unbekannt
+I215228,8,Agatha HUBER,,unbekannt,unbekannt
+I211664,8,Jakob (Gallis) SOHM,,unbekannt,unbekannt
+I211666,8,Maria (Georgs) SPIEGEL,,unbekannt,unbekannt
+I260743,8,Ignaz SCHWENDINGER,,unbekannt,unbekannt
+I260740,8,Maria (Ulrichs) ROTH,,unbekannt,unbekannt
+I208989,8,Lukas (Adams) KOHLER,,unbekannt,unbekannt
+I208994,8,Maria HUBER,,unbekannt,unbekannt
+I102044,8,Ulrich (Bartlis) ALBINGER,Dornbirn,Dornbirn,Österreich
+I102047,8,Anna (Martis) HEINZLE,"Fallenberg, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I102224,8,Josef (Johanns) THURNHER,,unbekannt,unbekannt
+I102226,8,Magdalena DANNER,,unbekannt,unbekannt
+I137106,8,Martin (Konrads) FEURSTEIN,,unbekannt,unbekannt
+I137103,8,Anna (Christians) DÜNSER,,unbekannt,unbekannt
+I103702,8,Martin (Johanns) ALBRICH,"Niederdorf, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I103705,8,Anna RÜMMELE,,unbekannt,unbekannt
+I103844,8,Johann (Felixus) ALBRICH,"Oberdorf, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I103847,8,Katharina (Michls) WEHINGER,,unbekannt,unbekannt
+I104788,8,Ignaz (Michels) KECKLE,,unbekannt,unbekannt
+I104790,8,Maria KECKLE,,unbekannt,unbekannt
+I133762,8,Sebastian (Georgs) SCHWENDINGER,,unbekannt,unbekannt
+I133764,8,Katharina (Martins) KAUFMANN,,unbekannt,unbekannt
+I257666,8,Marx (Michls) SPIEGEL,,unbekannt,unbekannt
+I257663,8,Maria RUSCH,,unbekannt,unbekannt
+I103792,8,Anna (Johanns) ALBRICH,,unbekannt,unbekannt
+I150548,8,Martin FUSSENEGGER,,unbekannt,unbekannt
+I150551,8,Agatha KLOCKER,,unbekannt,unbekannt
+I224781,8,Georg (Jakobs) MÄSER,,unbekannt,unbekannt
+I224784,8,Anna (Lorenzus) RÜF,,unbekannt,unbekannt
+I103857,8,Thomas (Martins) HEFEL,Dornbirn,Dornbirn,Österreich
+I103854,8,Maria (Felixs) ALBRICH,"Oberdorf, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I132164,8,Martin (Georgs) DREXEL,,unbekannt,unbekannt
+I132103,8,Anna (Michels) WEHINGER,,unbekannt,unbekannt
+I113158,8,Konrad (Felixs) SALZMANN,,unbekannt,unbekannt
+I113160,8,Anna Maria PFUND,unbekannt,unbekannt,unbekannt
+I208992,8,Katharina (Michls) SOHM,,unbekannt,unbekannt
+I195865,8,Kaspar (Johanns) KAUFMANN,,unbekannt,unbekannt
+I195868,8,Maria (Martins) SOHM,,unbekannt,unbekannt
+I236003,8,Johannes (Martins) RUSCH,,unbekannt,unbekannt
+I236000,8,Christina NATTERER,,unbekannt,unbekannt
+I226001,8,Peter Paul (Georgs) WINSAUER,,unbekannt,unbekannt
+I226003,8,Agatha (Georgs) WIPPER,,unbekannt,unbekannt
+I102196,8,Jakob (Georgs) WINSAUER,,unbekannt,unbekannt
+I102198,8,Anna (Adams) EHRHART,,unbekannt,unbekannt
+I109282,8,Michael (Johanns) MÄTZLER,,unbekannt,unbekannt
+I109279,8,Maria (Michls) BILDSTEIN,"Haselstauder Berg, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I126708,9,Martin (Andreas) MÄSER,,unbekannt,unbekannt
+I126710,9,Anna ROHNER,,unbekannt,unbekannt
+I182110,9,Jakob (Marts) MÄTZLER,,unbekannt,unbekannt
+I182112,9,Magdalena (Andreisus) WEHINGER,,unbekannt,unbekannt
+I268442,9,Mathias (Georgs) SCHWENDINGER,,unbekannt,unbekannt
+I268445,9,Maria KLIEN,,unbekannt,unbekannt
+I150660,9,Martin (Thisus) RÜMMELE,,unbekannt,unbekannt
+I150662,9,Agatha KLOCKER,,unbekannt,unbekannt
+I102034,9,Christian RÜNZLER,,unbekannt,unbekannt
+I102036,9,Maria SOHM,,unbekannt,unbekannt
+I103995,9,Georg (Kristas) DÜNSER,,unbekannt,unbekannt
+I103991,9,Katharina FEURSTEIN,,unbekannt,unbekannt
+I141644,9,Georg EILER,,unbekannt,unbekannt
+I141645,9,Maria BÄCHTER,,unbekannt,unbekannt
+I196085,9,Martin (Konrads) SOHM,,unbekannt,unbekannt
+I196087,9,Agatha (Fridlis) SCHMIDINGER,,unbekannt,unbekannt
+I220217,9,Barbara (Lorenzs) SCHUTZER,,unbekannt,unbekannt
+I201764,9,Adam (Klosus) KLOCKER,,unbekannt,unbekannt
+I201767,9,Margaretha (Johanns) WEHINGER,,unbekannt,unbekannt
+I103834,9,Martin (Georgs) KECKLE,,unbekannt,unbekannt
+I103836,9,Barbara KOHLER,,unbekannt,unbekannt
+I108756,9,Michael (Johanns) HUBER,,unbekannt,unbekannt
+I108753,9,Ursula (Martins) BAUMGARTNER,,unbekannt,unbekannt
+I208929,9,Johann (Johanns) MOOSBRUGGER,,unbekannt,unbekannt
+I208926,9,Agatha (Georgs) KOHLER,,unbekannt,unbekannt
+I167865,9,Johann Georg ROTH,,unbekannt,unbekannt
+I167862,9,Anna (Kaspars) HERBURGER,,unbekannt,unbekannt
+I122060,9,Jakob (Georgs) RUSCH,,unbekannt,unbekannt
+I122062,9,Anna (Johanns) HUBER,,unbekannt,unbekannt
+I144892,9,Jakob (Hansus) KLOCKER,,unbekannt,unbekannt
+I144889,9,Maria (Johanns) FEURSTEIN,,unbekannt,unbekannt
+I119384,9,Klemens (Sebastians) REIN,,unbekannt,unbekannt
+I119387,9,Anna RUSCH,,unbekannt,unbekannt
+I109261,9,Maria HUBER,,unbekannt,unbekannt
+I160476,9,Bartholomä ZUMTOBEL,,unbekannt,unbekannt
+I174058,9,Anna (Kaspars) WEHINGER,,unbekannt,unbekannt
+I144924,9,Georg WEHINGER,,unbekannt,unbekannt
+I167807,9,Barbara HELBOCK,"Feldkirch, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I171463,9,Georg (Heinrichs) HILBE,,unbekannt,unbekannt
+I171468,9,Anna DIEM,,unbekannt,unbekannt
+I157214,9,Johannes GMEINDER,,unbekannt,unbekannt
+I157217,9,Maria DIEM,,unbekannt,unbekannt
+I157329,9,Michael ROHNER,,unbekannt,unbekannt
+I157331,9,Katharina WEHINGER,,unbekannt,unbekannt
+I103239,9,Johann (Hans) FEURSTEIN,,unbekannt,unbekannt
+I103236,9,Katharina (Georgs) ALBRICH,,unbekannt,unbekannt
+I108750,9,Michael (Georgs) RUSCH,,unbekannt,unbekannt
+I108747,9,Anna (Martins) BAUMGARTNER,,unbekannt,unbekannt
+I212464,9,Georg LEHNER,,unbekannt,unbekannt
+I212465,9,Katharina ZOPPEL,,unbekannt,unbekannt
+I260868,9,Ulrich (Ammann Konrads) SALZMANN,,unbekannt,unbekannt
+I260871,9,Anna GILM,,unbekannt,unbekannt
+I171543,9,Johann (Marxus) HILBE,,unbekannt,unbekannt
+I171548,9,Magdalena BRÜZ (BREUß ),unbekannt,unbekannt,unbekannt
+I171780,9,Matheus (Ulrichs) ROTH,,unbekannt,unbekannt
+I171782,9,Ursula SOHM,,unbekannt,unbekannt
+I112749,9,Thomas (Gallis) BOBLETER,,unbekannt,unbekannt
+I112751,9,Anna (Peters) MÖTZ,,unbekannt,unbekannt
+I292833,9,Peter Hannibal (Peters) VONRIED,,unbekannt,unbekannt
+I292836,9,Katharina HUBER,,unbekannt,unbekannt
+I167839,9,Thomas RHOMBERG,,unbekannt,unbekannt
+I167836,9,Anna (Zachers) HERBURGER,,unbekannt,unbekannt
+I237449,9,Thomas (Jakobs) ÖLZ,,unbekannt,unbekannt
+I237452,9,Anna SALZMANN,,unbekannt,unbekannt
+I173852,9,Ulrich (Thomas) RHOMBERG,,unbekannt,unbekannt
+I173855,9,Barbara (Martis) SALZMANN,,unbekannt,unbekannt
+I173898,9,Lorenz (Andreios) WEHINGER,,unbekannt,unbekannt
+I174098,9,Maria Katharina WINDER,,unbekannt,unbekannt
+I180611,9,Martin (Lorenzus) HUBER,,unbekannt,unbekannt
+I180616,9,Agatha BÜCHELE,"Hard, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I125982,9,Konrad (Johanns) LUGER,,unbekannt,unbekannt
+I125984,9,Katharina NATTERER,,unbekannt,unbekannt
+I201820,9,Martin (Michls) KLOCKER,"Watzenegg, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I201823,9,Maria SALZMANN,,unbekannt,unbekannt
+I202298,9,Bartholomä (Konrads) SOHM,,unbekannt,unbekannt
+I202300,9,Magdalena BEREUTER,,unbekannt,unbekannt
+I102086,9,Martin (Ulrichs) HEINZLE,,unbekannt,unbekannt
+I102088,9,Elisabetha (Jakobs) MÄSER,,unbekannt,unbekannt
+I195966,9,Jakob (der jung) RÜF,,unbekannt,unbekannt
+I195968,9,Anna THURNHER,,unbekannt,unbekannt
+I145498,9,Michael (Lorenzus) HUBER,,unbekannt,unbekannt
+I145500,9,Maria RHOMBERG,,unbekannt,unbekannt
+I266980,9,Thomas (Ulrichs) THURNHER,,unbekannt,unbekannt
+I266977,9,Anna (Martins) SCHMITTER,,unbekannt,unbekannt
+I174897,9,Johannes (Johanns) SALZMANN,,unbekannt,unbekannt
+I174899,9,Anna (Georgs) RÜNZLER,,unbekannt,unbekannt
+I122280,9,Johann WÄLLPE,,unbekannt,unbekannt
+I122282,9,Anna Maria FUSSENEGGER,,unbekannt,unbekannt
+I180693,9,Martin (Johanns) HUBER,,unbekannt,unbekannt
+I180696,9,Dorothea (Kaspers) ULMER,,unbekannt,unbekannt
+I112744,9,Johannes (Gallis) BOBLETER,,unbekannt,unbekannt
+I112746,9,Maria RÜMMELE,,unbekannt,unbekannt
+I145019,9,Leonhart (Hansus) RÜMMELE,,unbekannt,unbekannt
+I145021,9,Anna HEFEL,,unbekannt,unbekannt
+I276220,9,Gallus (Bartlis) SOHM,,unbekannt,unbekannt
+I276225,9,Agatha SCHMITTER,,unbekannt,unbekannt
+I276518,9,Georg SPIEGEL,,unbekannt,unbekannt
+I276520,9,Anna FRY (FREI),,unbekannt,unbekannt
+I139922,9,Andreas (Sebastians) SCHWENDINGER,,unbekannt,unbekannt
+I139924,9,Magdalena ALBINI,,unbekannt,unbekannt
+I214370,9,Ulrich ROTH,,unbekannt,unbekannt
+I111211,9,Katharina (Konrads) LUGER,,unbekannt,unbekannt
+I200750,9,Adam KOHLER,,unbekannt,unbekannt
+I200747,9,Elisabetha (Georgs) KLEINBROD,,unbekannt,unbekannt
+I101928,9,Bartholomä (Johanns) ALBINGER,,unbekannt,unbekannt
+I101931,9,Katharina (Christians) RÜNZLER,,unbekannt,unbekannt
+I215140,9,Johann (Kristians) THURNHER,,unbekannt,unbekannt
+I215142,9,Anna (Ulrichs) SALZMANN,,unbekannt,unbekannt
+I145077,9,Konrad FEURSTEIN,,unbekannt,unbekannt
+I145080,9,Katharina (Johanns) SALZMANN,,unbekannt,unbekannt
+I136869,9,Christian DÜNSER,,unbekannt,unbekannt
+I136872,9,Agatha (Martis) KAUFMANN,,unbekannt,unbekannt
+I103684,9,Johann (Nägeli) ALBRICH,,unbekannt,unbekannt
+I103685,9,Anna SALZMANN,,unbekannt,unbekannt
+I103248,9,Felix ALBRICH,,unbekannt,unbekannt
+I103251,9,Anna (Martins) KECKLE,,unbekannt,unbekannt
+I104288,9,Michael (Andreis) WEHINGER,,unbekannt,unbekannt
+I104290,9,Katharina (Ulrichs) SALZMANN,,unbekannt,unbekannt
+I200201,9,Michael KECKLE,,unbekannt,unbekannt
+I200202,9,Magdalena (Zachers) LECHER,,unbekannt,unbekannt
+I180940,9,Georg (Michels) SCHWENDINGER,,unbekannt,unbekannt
+I180937,9,Margaretha (Baschas) HUBER,,unbekannt,unbekannt
+I104236,9,Martin (Georgs) KAUFMANN,,unbekannt,unbekannt
+I104238,9,Maria (Sebastians) NATTERER,,unbekannt,unbekannt
+I279541,9,Michael (Georgs) SPIEGEL,,unbekannt,unbekannt
+I121089,9,Katharina (Johanns) BRÖLL,Dornbirn,Dornbirn,Österreich
+I103786,9,Johannes (Hans) (Weiß) ALBRICH,,unbekannt,unbekannt
+I103787,9,Anna DIEM,,unbekannt,unbekannt
+I122138,9,Georg FUSSENEGGER,,unbekannt,unbekannt
+I122140,9,Katharina WEHINGER,,unbekannt,unbekannt
+I182847,9,Rochus (Michls) KLOCKER,,unbekannt,unbekannt
+I182849,9,Eva (Christians) THURNHER,,unbekannt,unbekannt
+I125474,9,Jakob (Kristas) MÄSER,,unbekannt,unbekannt
+I125476,9,Eva HUBER,,unbekannt,unbekannt
+I160033,9,Lorenz RÜF,,unbekannt,unbekannt
+I225065,9,Agatha SCHMID,,unbekannt,unbekannt
+I137237,9,Martin HEFEL,,unbekannt,unbekannt
+I137239,9,Anna HUBER,,unbekannt,unbekannt
+I133536,9,Georg (Jakobs) DREXEL,,unbekannt,unbekannt
+I133539,9,Anna HÄMMERLE,,unbekannt,unbekannt
+I261169,9,Felix (Konrads) SALZMANN,,unbekannt,unbekannt
+I261172,9,Maria GREUTER,,unbekannt,unbekannt
+I208032,9,Michael (Konrads) SOHM,,unbekannt,unbekannt
+I209143,9,Magdalena DÜNSER,,unbekannt,unbekannt
+I195853,9,Johann (Georgs) KAUFMANN,,unbekannt,unbekannt
+I195854,9,Christine (Kaspas) LECHER,,unbekannt,unbekannt
+I257443,9,Martin (Andres) RUSCH,,unbekannt,unbekannt
+I257445,9,Barbara (Hansus) HUBER,,unbekannt,unbekannt
+I167637,9,Martin (Georgs) NATTERER,,unbekannt,unbekannt
+I167634,9,Maria (Georgs) HEINZLE,,unbekannt,unbekannt
+I208921,9,Georg (Ulrichs) WINSAUER,,unbekannt,unbekannt
+I302467,9,Katharina HÖFLE,,unbekannt,unbekannt
+I136916,9,Georg (Baschas) WIPPER,,unbekannt,unbekannt
+I302580,9,Anna SOHM,,unbekannt,unbekannt
+I208918,9,Margaretha (Thisus) KOHLER,,unbekannt,unbekannt
+I140261,9,Adam (Urbans) EHRHART,,unbekannt,unbekannt
+I140264,9,Waldburga MATHIS,,unbekannt,unbekannt
+I113047,9,Johann MÄTZLER,,unbekannt,unbekannt
+I113049,9,Katharina SCHELL,,unbekannt,unbekannt
+I108945,9,Michael BILDSTEIN,"Fallenberg, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I108948,9,Barbara RÜMMELE,,unbekannt,unbekannt
+I224689,10,Andreas (Georgs) MÄSER,,unbekannt,unbekannt
+I224692,10,Katharina KAPLAN,,unbekannt,unbekannt
+I108822,10,Georg ROHNER,,unbekannt,unbekannt
+I108819,10,Elisabetha (Jakobs) BERTSCH,,unbekannt,unbekannt
+I108862,10,Martin MÄTZLER,,unbekannt,unbekannt
+I231292,10,Katharina (Georgs) RUSCH,,unbekannt,unbekannt
+I268396,10,Georg SCHWENDINGER,,unbekannt,unbekannt
+I268399,10,Margaretha DORER,,unbekannt,unbekannt
+I121207,10,Mathias RÜMMELE,,unbekannt,unbekannt
+I121209,10,Anna WEHINGER,,unbekannt,unbekannt
+I136812,10,Christian (Michels) DÜNSER,,unbekannt,unbekannt
+I136815,10,Elisabetha FEURSTEIN,,unbekannt,unbekannt
+I265657,10,Konrad SOHM,,unbekannt,unbekannt
+I265659,10,Katharina (Ulrichs) WINSAUER,,unbekannt,unbekannt
+I265431,10,Fridolin (Michels) SCHMIDINGER,,unbekannt,unbekannt
+I265434,10,Maria HILBE,,unbekannt,unbekannt
+I255996,10,Lorenz (Barthlis) SCHUTZER,,unbekannt,unbekannt
+I255998,10,Maria MÖTZ,,unbekannt,unbekannt
+I125419,10,Nikolaus KLOCKER,,unbekannt,unbekannt
+I201700,10,Anna MAYER,,unbekannt,unbekannt
+I202052,10,Johannes WEHINGER,,unbekannt,unbekannt
+I202054,10,Magdalena HUBER,,unbekannt,unbekannt
+I200083,10,Georg (Baschas) KECKLE,,unbekannt,unbekannt
+I200086,10,N. (VEREHL. KECKLE),,unbekannt,unbekannt
+I180583,10,Johannes (Ammans Lorenzus) HUBER,,unbekannt,unbekannt
+I180586,10,Maria WINDER,,unbekannt,unbekannt
+I108737,10,Martin BAUMGARTNER,,unbekannt,unbekannt
+I108738,10,Katharina SALZMANN,,unbekannt,unbekannt
+I234131,10,Johann MOOSBRUGGER,"Bregenzerwald, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I234132,10,Maria WILHELM,,unbekannt,unbekannt
+I208912,10,Georg (Thisus) KOHLER,,unbekannt,unbekannt
+I208915,10,Anna FEURSTEIN,,unbekannt,unbekannt
+I103940,10,Ulrich ROTH,,unbekannt,unbekannt
+I103942,10,Gertrud HUBER,,unbekannt,unbekannt
+I167810,10,Kaspar (Martins) HERBURGER,,unbekannt,unbekannt
+I167813,10,Katharina WEHINGER,,unbekannt,unbekannt
+I114723,10,Georg (Bartlis) RUSCH,,unbekannt,unbekannt
+I114725,10,Agatha (Amman Konrads) SALZMANN,,unbekannt,unbekannt
+I109115,10,Johann KLOCKER,,unbekannt,unbekannt
+I109117,10,Maria RÜDISSER,,unbekannt,unbekannt
+I124678,10,Verena (Kristians) SCHMID,,unbekannt,unbekannt
+I103215,10,Sebastian (Klemenses) REIN,,unbekannt,unbekannt
+I103212,10,Margaretha (Adams) ALBRICH,,unbekannt,unbekannt
+I307723,10,Bartholomäus ZUMTOBEL,,unbekannt,unbekannt
+I307725,10,Verena HINDELANG,,unbekannt,unbekannt
+I307730,10,Kaspar (Springer) WEHINGER,,unbekannt,unbekannt
+I307732,10,Anna (Katharina) WEHINGER,,unbekannt,unbekannt
+I237635,10,Andreas WEHINGER,,unbekannt,unbekannt
+I243709,10,Maria (Georgs) HUBER,,unbekannt,unbekannt
+I167822,10,Johann (Hans) HELBOCK,"Egg, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I167824,10,Anna MÄSER,,unbekannt,unbekannt
+I171440,10,Heinrich (Johanns) HILBE,,unbekannt,unbekannt
+I171442,10,Maria (Georgs) ALBRICH,,unbekannt,unbekannt
+I157208,10,Michael GMEINDER,,unbekannt,unbekannt
+I157209,10,N. (Simons) BILDSTEIN,,unbekannt,unbekannt
+I103192,10,Georg ALBRICH,,unbekannt,unbekannt
+I103197,10,Katharina ILG,,unbekannt,unbekannt
+I237015,10,Konrad (Georgs) SALZMANN,,unbekannt,unbekannt
+I237017,10,Magdalena ALBRICH,,unbekannt,unbekannt
+I157273,10,Marx (Michels) HILBE,,unbekannt,unbekannt
+I157275,10,Agatha (Adams) KLOCKER,,unbekannt,unbekannt
+I112742,10,Gallus (Bernharts) BOBLETER,,unbekannt,unbekannt
+I292827,10,Peter VONRIED,"Graubünden, Schweiz",Ausland,Schweiz
+I292828,10,Susanna ECHINGER,"Oberbalzheim, Balzheim, Baden-Württemberg, Deutschland",Ausland,Deutschland
+I167802,10,Zacharias (Martins) HERBURGER,,unbekannt,unbekannt
+I156684,10,Jakob ÖLZ,,unbekannt,unbekannt
+I156686,10,N. (VEREHL. ÖLZ),,unbekannt,unbekannt
+I173806,10,Thomas (Ulrichs) RHOMBERG,,unbekannt,unbekannt
+I173809,10,Anna ALBRICH,,unbekannt,unbekannt
+I173870,10,Martin (Felix) SALZMANN,,unbekannt,unbekannt
+I173872,10,Katharina (Simons) HUBER,,unbekannt,unbekannt
+I125718,10,Lorenz HUBER,,unbekannt,unbekannt
+I180554,10,Regula (Niklausus) HOHLSTEIN (HOLLENSTEIN),"Lustenau, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I173783,10,Johann (Hansus) LUGER,,unbekannt,unbekannt
+I173780,10,Klara (Bartles) RHOMBERG,,unbekannt,unbekannt
+I180604,10,Michael KLOCKER,,unbekannt,unbekannt
+I180601,10,Maria HUBER,,unbekannt,unbekannt
+I167648,10,Ulrich HEINZLE,,unbekannt,unbekannt
+I167649,10,Anna HAMMERER (HÄMMERLE ),,unbekannt,unbekannt
+I251831,10,Georg RÜF,"Mühlebach, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I251834,10,Katharina ALBRICH,,unbekannt,unbekannt
+I173811,10,Agatha (Lorenzes) HUBER,,unbekannt,unbekannt
+I214796,10,Ulrich (Martins) THURNHER,,unbekannt,unbekannt
+I214798,10,Magdalena FRANZ,,unbekannt,unbekannt
+I122078,10,Johann Martin (Johanns) SCHMITTER,,unbekannt,unbekannt
+I122080,10,Maria (Georgs) LUGER,,unbekannt,unbekannt
+I260931,10,Johann Konrad SALZMANN,,unbekannt,unbekannt
+I260932,10,Katharina (Martins) SCHMITTER,,unbekannt,unbekannt
+I177777,10,Georg RÜNZLER,,unbekannt,unbekannt
+I255974,10,Anna BRENNER,,unbekannt,unbekannt
+I181358,10,Kaspar (Balthusus Krämers) ULMER,,unbekannt,unbekannt
+I181360,10,Katharina ALBRICH,,unbekannt,unbekannt
+I254181,10,Johann RÜMMELE,,unbekannt,unbekannt
+I254182,10,Anna SCHMIDINGER,,unbekannt,unbekannt
+I276210,10,Bartholomä SOHM,,unbekannt,unbekannt
+I276211,10,Katharina RUSCH,,unbekannt,unbekannt
+I201737,10,Sebastian SCHWENDINGER,,unbekannt,unbekannt
+I201734,10,Anna (Jakobs) KLOCKER,,unbekannt,unbekannt
+I200274,10,Albinus ALBIN,"Graubünden, Schweiz",Ausland,Schweiz
+I200276,10,Katharina BRAUN (BRUNLIN),,unbekannt,unbekannt
+I214281,10,Katharina (Lorenzs) REIN,,unbekannt,unbekannt
+I200733,10,Georg (Johanns) KLEINBROD,,unbekannt,unbekannt
+I200734,10,Gertrud GMEINDER,,unbekannt,unbekannt
+I101910,10,Johannes ALBINGER,,unbekannt,unbekannt
+I101911,10,Maria (Johanns) DIEM,,unbekannt,unbekannt
+I126408,10,Christian (Martins) THURNHER,,unbekannt,unbekannt
+I126410,10,Margaretha FEURSTEIN,,unbekannt,unbekannt
+I144804,10,Georg FEURSTEIN,,unbekannt,unbekannt
+I144805,10,Anna KOHLER,,unbekannt,unbekannt
+I145083,10,Johann (Baltusus) SALZMANN,,unbekannt,unbekannt
+I145085,10,Magdalena (Martins) SCHMITTER,,unbekannt,unbekannt
+I136859,10,Johann (Johanns) DÜNSER,,unbekannt,unbekannt
+I136860,10,Maria (Kaspas) JUNG,,unbekannt,unbekannt
+I137073,10,Martin (Thomas) KAUFMANN,,unbekannt,unbekannt
+I137075,10,Anna FECHTING,unbekannt,unbekannt,unbekannt
+I103242,10,Johann ALBRICH,,unbekannt,unbekannt
+I103243,10,Salamea GISINGER,,unbekannt,unbekannt
+I237637,10,Katharina HÄMMERLE,,unbekannt,unbekannt
+I200205,10,Zacharias (Hansus) LECHER,,unbekannt,unbekannt
+I200207,10,Barbara (Martins) SPIEGEL,,unbekannt,unbekannt
+I109167,10,Michael SCHWENDINGER,,unbekannt,unbekannt
+I109169,10,Katharina (Thomas) SALZMANN,,unbekannt,unbekannt
+I145161,10,Sebastian (Ammas) HUBER,,unbekannt,unbekannt
+I145163,10,Katharina ILG,,unbekannt,unbekannt
+I195728,10,Georg (Jakobs) KAUFMANN,,unbekannt,unbekannt
+I195731,10,Anna BECHTER,,unbekannt,unbekannt
+I195894,10,Sebastian (Martins) NATTERER,,unbekannt,unbekannt
+I195896,10,Margaretha EHRHART,,unbekannt,unbekannt
+I121079,10,Johannes BRÖLL,,unbekannt,unbekannt
+I121080,10,Katharina SALZMANN,,unbekannt,unbekannt
+I114096,10,Christian (Georgs) MÄSER,,unbekannt,unbekannt
+I114098,10,Ursula JUNG,,unbekannt,unbekannt
+I123576,10,Jakob DREXEL,"Hohenems, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I123578,10,Eva STEURER,,unbekannt,unbekannt
+I133548,10,Christian (Christa) HÄMMERLE,,unbekannt,unbekannt
+I133550,10,Barbara DIEM,,unbekannt,unbekannt
+I109137,10,Kaspar (Johanns) LECHER,,unbekannt,unbekannt
+I109139,10,Anna (Martins) WEHINGER,,unbekannt,unbekannt
+I235882,10,Georg (Hannsen Sohn) NATTERER,,unbekannt,unbekannt
+I235883,10,Barbara BOBLETER,,unbekannt,unbekannt
+I167622,10,Georg HEINZLE,,unbekannt,unbekannt
+I167623,10,Katharina MÄSER,,unbekannt,unbekannt
+I136891,10,Ulrich WINSAUER,,unbekannt,unbekannt
+I136893,10,Anna SCHWENDINGER,,unbekannt,unbekannt
+I193439,10,Sebastian WIPPER,,unbekannt,unbekannt
+I193441,10,Maria HUBER,,unbekannt,unbekannt
+I208906,10,Mathis KOHLER,,unbekannt,unbekannt
+I208907,10,Katharina FEURSTEIN,,unbekannt,unbekannt
+I140255,10,Urban EHRHART,,unbekannt,unbekannt
+I140256,10,Anna LUGER,,unbekannt,unbekannt
+I108923,10,Michael BILDSTEIN,,unbekannt,unbekannt
+I108924,10,Agatha RÜMMELE,,unbekannt,unbekannt
+I195722,11,Georg (Oswalds) MÄSER,,unbekannt,unbekannt
+I195724,11,Anna THURNHER,,unbekannt,unbekannt
+I108813,11,Jakob BERTSCH,"Bregenzerwald, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I108814,11,Katharina MOHR,,unbekannt,unbekannt
+I214271,11,Mathias SCHWENDINGER,,unbekannt,unbekannt
+I214269,11,Gertrud (Johanns) LUGER,,unbekannt,unbekannt
+I136806,11,Michel DÜNSER,,unbekannt,unbekannt
+I136807,11,Agatha GEIGER,,unbekannt,unbekannt
+I265419,11,Michael SCHMIDINGER,,unbekannt,unbekannt
+I265420,11,Maria (Bartlis) BILDSTEIN,,unbekannt,unbekannt
+I267645,11,Barthle (Jakobs) SCHUTZER,,unbekannt,unbekannt
+I267648,11,Barbara DIEM,,unbekannt,unbekannt
+I201688,11,Michael KLOCKER,,unbekannt,unbekannt
+I201689,11,N. MEUSBURGER,"Bregenzerwald, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I200077,11,Sebastian KECKLE,,unbekannt,unbekannt
+I200078,11,Anna WILHELM,,unbekannt,unbekannt
+I167756,11,Martin (Zachers) HERBURGER,,unbekannt,unbekannt
+I167759,11,Ursula (Georgs) KAPPENZIPFEL,"Kennelbach, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I144883,11,Christian SCHMID,,unbekannt,unbekannt
+I144885,11,Verena ZOLLER,,unbekannt,unbekannt
+I119348,11,Klemens (Georgs) REIN,,unbekannt,unbekannt
+I119351,11,Christina SCHNELL,,unbekannt,unbekannt
+I103186,11,Adam (Peters) ALBRICH,,unbekannt,unbekannt
+I103189,11,Elisabetha GRÜBER,,unbekannt,unbekannt
+I243700,11,Georg HUBER,,unbekannt,unbekannt
+I243697,11,Gertruda (Georgs) ZOLLER,,unbekannt,unbekannt
+I173800,11,Martin MÄSER,,unbekannt,unbekannt
+I224626,11,Maria LUDESCHER,"Rankweil, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I103159,11,Peter ALBRICH,,unbekannt,unbekannt
+I103161,11,Ursula LUGER,,unbekannt,unbekannt
+I260811,11,Georg (Hansus) SALZMANN,,unbekannt,unbekannt
+I260814,11,Gertrud LUGER,,unbekannt,unbekannt
+I171435,11,Michael (Johannes) HILBE,,unbekannt,unbekannt
+I171437,11,Verena RUSCH,,unbekannt,unbekannt
+I171525,11,Adam (Klosus) KLOCKER,,unbekannt,unbekannt
+I171527,11,N. ALBRICH,,unbekannt,unbekannt
+I237423,11,Thomas ÖLZ,,unbekannt,unbekannt
+I237424,11,N. (VEREHL. ÖLZ),,unbekannt,unbekannt
+I124644,11,Ulrich (Thomas) RHOMBERG,,unbekannt,unbekannt
+I124646,11,Magdalena (Martins) MÄSER,,unbekannt,unbekannt
+I173846,11,Mathias ALBRICH,,unbekannt,unbekannt
+I173848,11,Elisabeth THURNHER,,unbekannt,unbekannt
+I260881,11,Felix (der Alte) SALZMANN,,unbekannt,unbekannt
+I260883,11,Katharina ZUMTOBEL,,unbekannt,unbekannt
+I180491,11,Simon (Hilariuses) HUBER,,unbekannt,unbekannt
+I180496,11,Agatha (Johanns) LUGER,,unbekannt,unbekannt
+I180494,11,Magdalena FRANZ,,unbekannt,unbekannt
+I173765,11,Bartholomäus RHOMBERG (RAUBERG RABERG),,unbekannt,unbekannt
+I173764,11,Barbara WILLER,,unbekannt,unbekannt
+I125708,11,Lorenz RÜF,,unbekannt,unbekannt
+I125705,11,Anna DIEM,"Oberdorf, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I125715,11,Anna (Felixus) DIEM,"Oberdorf, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I284445,11,Martin THURNHER,,unbekannt,unbekannt
+I284446,11,Magdalena (Lena) FRANZ,"Oberdorf, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I158335,11,Johann (Martins) SCHMITTER,,unbekannt,unbekannt
+I158337,11,Anna NATTERER,,unbekannt,unbekannt
+I174023,11,Georg LUGER,,unbekannt,unbekannt
+I174025,11,Gertrud (Bartlis) SCHMID,,unbekannt,unbekannt
+I290154,11,Balthasar ULMER,,unbekannt,unbekannt
+I290155,11,Dorothea BRENNER,,unbekannt,unbekannt
+I201720,11,Jakob KLOCKER,,unbekannt,unbekannt
+I201721,11,N. KLOCKER,,unbekannt,unbekannt
+I144774,11,Andreas (Bartles) FEURSTEIN,,unbekannt,unbekannt
+I144777,11,Maria HÄMMERLE,,unbekannt,unbekannt
+I167848,11,Baltus (Josus) SALZMANN,,unbekannt,unbekannt
+I167850,11,Katharina (Bernharts) SCHUTZER,,unbekannt,unbekannt
+I136863,11,Kaspar JUNG,,unbekannt,unbekannt
+I136865,11,Anna SALZMANN,,unbekannt,unbekannt
+I195712,11,Thomas (Sebastians) KAUFMANN,,unbekannt,unbekannt
+I195715,11,N. N. (VEREHL. KAUFMANN),,unbekannt,unbekannt
+I211598,11,Johannes LECHER,,unbekannt,unbekannt
+I211599,11,N. N. (VEREHL. LECHER),,unbekannt,unbekannt
+I180911,11,Andreas ILG,,unbekannt,unbekannt
+I180913,11,N. (Michels) KECKLE,,unbekannt,unbekannt
+I126086,11,Jakob (Sebastins) KAUFMANN,,unbekannt,unbekannt
+I126088,11,N. (Georgs) MÄSER,,unbekannt,unbekannt
+I235820,11,Martin NATTERER,,unbekannt,unbekannt
+I235821,11,Anna (Oswalds) JENNING,,unbekannt,unbekannt
+I159946,11,Hans (der Alt des Gerichts) HÄMMERLE,,unbekannt,unbekannt
+I159948,11,Anna,,unbekannt,unbekannt
+I224647,12,Oswald MÄSER,,unbekannt,unbekannt
+I224648,12,Margaretha (Glozin) HUBER,,unbekannt,unbekannt
+I257466,12,Jakob SCHUTZER,,unbekannt,unbekannt
+I257468,12,Anna RÜMMELE,,unbekannt,unbekannt
+I167750,12,Zacharias HERBURGER,,unbekannt,unbekannt
+I167751,12,Anna LUGER,,unbekannt,unbekannt
+I167790,12,Georg KAPPENZIPFEL,,unbekannt,unbekannt
+I167792,12,N. BAUMANN,,unbekannt,unbekannt
+I119342,12,Georg REIN,,unbekannt,unbekannt
+I119343,12,Margaretha WEHINGER,,unbekannt,unbekannt
+I243687,12,Georg WILLER GENANNT ZOLLER,,unbekannt,unbekannt
+I243688,12,Agatha EBERLE,,unbekannt,unbekannt
+I260801,12,Hans SALZMANN,,unbekannt,unbekannt
+I260802,12,Agatha WILHELM,,unbekannt,unbekannt
+I173768,12,Thomas RHOMBERG,,unbekannt,unbekannt
+I173771,12,Katharina DIETRICH,"Lauterach, Vorarlberg, Österreich",Vorarlberg (ohne Dornbirn),Österreich
+I173802,12,Verena (Ulrichs) EBERLE,,unbekannt,unbekannt
+I180485,12,Hilarius HUBER,,unbekannt,unbekannt
+I180486,12,Verena BOHS,,unbekannt,unbekannt
+I125676,12,Felix (der Alt) DIEM,,unbekannt,unbekannt
+I125678,12,N. N. (VEREHL. DIEM),,unbekannt,unbekannt
+I125685,12,Felix (Felixus) DIEM,"Oberdorf, Dornbirn, Vorarlberg, Österreich",Dornbirn,Österreich
+I125688,12,Anna (Barbara) (Martins) LUGER,,unbekannt,unbekannt
+I321003,12,Georg FRANZ (FRANNZ),,unbekannt,unbekannt
+I321004,12,N. N. (VEREHL. FRANZ),,unbekannt,unbekannt
+I191265,12,Martin SCHMITTER,,unbekannt,unbekannt
+I191267,12,Anna MÖTZ,,unbekannt,unbekannt
+I144760,12,Bartholomä FEURSTEIN,,unbekannt,unbekannt
+I144761,12,N. (VEREHL. FEURSTEIN),,unbekannt,unbekannt
+I195690,12,Sebastian (Thomas) KAUFMANN,,unbekannt,unbekannt
+I195693,12,Katharina SIEBER,,unbekannt,unbekannt

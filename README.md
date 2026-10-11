@@ -15,8 +15,11 @@ python -m pytest
 Ausgabe in `out/`: `auswertung.txt`, `vorfahren.csv`, `stammbaum.dot` (+ `.svg`, wenn
 `dot` installiert ist; Farben: grün = Dornbirn, gelb = Österreich, rot = Ausland).
 
+## Ergebnis für I376380 (Sieglinde Mäser, ✶ 1941)
+Siehe `ergebnis/` (Auswertung, CSV, SVG-Ahnentafel, Rohdaten). Wichtig: Für 597 von 665 Vorfahren
+(bis Generation 12) ist in der Datenbank **kein Geburtsort** hinterlegt (nur Jahre, v. a. ab Gen. 5),
+die Zahlen gelten daher nur für die 68 Vorfahren mit Ortsangabe.
+
 ## Status
-- GEDCOM-Import, Auswertung, Zeichnung: getestet.
-- Web-Scraper (`ahnen/scraper.py`): **nicht gegen die echte Seite getestet** (Netzwerk war gesperrt).
-  Der Parser ist heuristisch; Seiten werden in `.cache/` abgelegt, so lässt sich `_parse_report`
-  offline anpassen. Bitte die Abrufe höflich halten (`--delay`).
+- Web-Scraper, GEDCOM-Import, Auswertung, Zeichnung (SVG ohne Graphviz, plus `.dot`): getestet.
+- Abrufe werden in `.cache/` abgelegt und höflich getaktet (`--delay`).
